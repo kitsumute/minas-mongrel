@@ -12,9 +12,9 @@ tags: ['Utopia', 'Agriculture', 'Authentic']
 
 Cybercafe was an installation designed for the *deep authentic* theme of the 2021 Unsound Festival. To problematise authenticity we decided to explore identities rooted in online communities that are on the social media map relatively remote from our own filter bubbles. This required constructing from the scratch the environments through which we would observe, perform and think these identities. It also was – which is important in the context of deep authentic – at the same time an active process of indirect training of recommendation and ranking algorithms and a passive drift in directions drawn by platform architectures, which by force of inertia compile social media bubbles. It became clear for us that this involved the in/authenticity problematic matrix at two levels: first, the authentic relation of the identity (e.g. a tradwife) to herself; and second, the relation of us, designing the installation and developing its social media material, to the designed identity and its data streams. At certain point it is indistinguishable whether the identity and its information feed is an outcome of our subjective perspective or a genuine representative of the community.
 
-<video width="320" height="240" controls>  
-  <source src="https://www.youtube.com/watch?v=TqZpi8zAqe0" type="video/mp4">  
-</video>
+<iframe width="100%" height="auto" controls>  
+  <source src="https://www.youtube.com/watch?v=TqZpi8zAqe0">  
+</iframe>
 
 #### Part II
 
