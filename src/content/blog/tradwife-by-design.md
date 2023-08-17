@@ -1,6 +1,6 @@
 ---
 title: "#Tradwife by design"
-isDraft: true
+isDraft: false
 description: "Cybercafe was an installation designed for the deep authentic theme of the 2021 Unsound Festival. To problematise authenticity we decided to explore identities rooted in online communities that are on the social media map relatively remote from our own filter bubbles."
 pubDate: "August 17 2023"
 coverImage: "../../assets/neon.png"
