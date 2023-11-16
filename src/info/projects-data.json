@@ -11,24 +11,15 @@
        },
        {
           "id":2,
-          "title":"Autumn Christian – Łabędzie szyje jak miecze",
-          "publisher":"papierwdole",
-          "type":"Translation",
-          "date":"Forthcoming",
-          "url":"",
-          "lang":"pl"
-       },
-       {
-          "id":3,
           "title":"Arachnoeskapizm Kathy Acker. Esejorecenzja",
           "publisher":"Stoner Polski",
           "type":"Essay",
           "date":"2023",
-          "url":"",
+          "url":"https://stonerpolski.pl/arachnoeskapizm-kathy-acker-esejorecenzja/",
           "lang":"pl"
        },
        {
-          "id":4,
+          "id":3,
           "title":"The Future is Nowhere. Alienation, Autonomy & Suspended Futurisation of Poland",
           "publisher":"Unsound",
           "type":"Workshop",
@@ -37,7 +28,7 @@
           "lang":"en"
        },
        {
-          "id":5,
+          "id":4,
           "title":"0°DLL",
           "publisher":"Biuro Literackie",
           "type":"Poetry",
@@ -46,7 +37,7 @@
           "lang":"pl"
        },
        {
-          "id":6,
+          "id":5,
           "title":"Rewolucja zaczyna się od rokoszu lemurów",
           "publisher":"Biuro Literackie",
           "type":"Interview",
@@ -257,7 +248,25 @@
           "title":"0°DLL",
           "publisher":"Convivo",
           "type":"Poetry",
-          "date":"Forthcoming",
+          "date":"2023",
+          "url":"https://convivo.com.pl/2023/10/30/nowosc-patrick-leftwich-0dll/",
+          "lang":"pl"
+       },
+       {
+          "id":30,
+          "title":"Konspiracja i postironia w semiotyce postprawdy",
+          "publisher":"Zakład",
+          "type":"Essay",
+          "date":"2023",
+          "url":"https://www.zakladmagazyn.pl/post/patrick-leftwich-konspiracja-i-postironia-w-semiotyce-postprawdy",
+          "lang":"pl"
+       },
+       {
+          "id":31,
+          "title":"leucosis. hipo-sestyna [demo]",
+          "publisher":"Trytytka",
+          "type":"Poetry",
+          "date":"2023",
           "url":"",
           "lang":"pl"
        }
