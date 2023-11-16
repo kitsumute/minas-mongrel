@@ -29,7 +29,7 @@
        },
        {
           "id":4,
-          "title":"0°DLL",
+          "title":"0°DLL [wybór]",
           "publisher":"Biuro Literackie",
           "type":"Poetry",
           "date":"2022",
@@ -46,16 +46,16 @@
           "lang":"pl"
        },
        {
-          "id":7,
+          "id":6,
           "title":"Sprawność",
           "publisher":"Stoner Polski",
           "type":"Short Story",
           "date":"2022",
-          "url":"",
+          "url":"https://stonerpolski.pl/sprawnosc/",
           "lang":"pl"
        },
        {
-          "id":8,
+          "id":7,
           "title":"Automation and Catastrophe",
           "publisher":"Plutonics :(::)",
           "type":"Essay",
@@ -64,16 +64,16 @@
           "lang":"en"
        },
        {
-          "id":9,
+          "id":8,
           "title":"Nick Land – Pośpieszne wprowadzenie do akceleracjonizmu",
           "publisher":"HOMAR",
           "type":"Translation",
           "date":"2021",
-          "url":"https://homar.blog/blog/aNmvlywczZNEFbjVkOC6",
+          "url":"https://homar.blog",
           "lang":"pl"
        },
        {
-          "id":10,
+          "id":9,
           "title":"Akceleracjonizm – wprowadzenie",
           "publisher":"Filozofia Tak Bardzo",
           "type":"Talk",
@@ -82,16 +82,16 @@
           "lang":"pl"
        },
        {
-          "id":11,
+          "id":10,
           "title":"Automatyka i katastrofa",
           "publisher":"Stoner Polski",
           "type":"Essay",
           "date":"2021",
-          "url":"",
+          "url":"https://stonerpolski.pl/publicystyka-automatyka-i-katastrofa/",
           "lang":"pl"
        },
        {
-          "id":12,
+          "id":11,
           "title":"<untitled>",
           "publisher":"Strona Czynna",
           "type":"Poetry",
@@ -100,34 +100,34 @@
           "lang":"pl"
        },
        {
-          "id":13,
+          "id":12,
           "title":"Cybercafe",
           "publisher":"Unsound",
           "type":"Installation",
           "date":"2021",
-          "url":"https://homar.blog/blog/NOFeenmyCOXGflfdtJVN",
+          "url":"https://homar.blog",
           "lang":"en"
        },
        {
-          "id":14,
+          "id":13,
           "title":"Mark Fisher - k-punk, albo art pop dyskontinuum glampunku",
           "publisher":"HOMAR",
           "type":"Translation",
           "date":"2020",
-          "url":"https://homar.blog/blog/iNPGjdOh5l6XBZJ0ZfBK",
+          "url":"https://homar.blog",
           "lang":"pl"
        },
        {
-          "id":15,
+          "id":14,
           "title":"Luciana Parisi - Przeprogramowywanie Decyzjonizmu",
           "publisher":"HOMAR",
           "type":"Translation",
           "date":"2020",
-          "url":"https://homar.blog/blog/21UbhbpoEOGLYYJuDryV",
+          "url":"https://homar.blog",
           "lang":"pl"
        },
        {
-          "id":16,
+          "id":15,
           "title":"Co po krytyce? Kapitalizm i wyczerpanie teorii krytycznej. Cz. 1",
           "publisher":"HOMAR",
           "type":"Talk",
@@ -136,7 +136,7 @@
           "lang":"pl"
        },
        {
-          "id":17,
+          "id":16,
           "title":"Elektryczne Futro",
           "publisher":"self-published",
           "type":"Zine",
@@ -145,34 +145,34 @@
           "lang":"pl"
        },
        {
-          "id":18,
+          "id":17,
           "title":"Sadie Plant & Nick Land – Cyberdodatnie",
           "publisher":"HOMAR",
           "type":"Translation",
           "date":"2019",
-          "url":"https://homar.blog/blog/MfYdfUYyIKecAD6CBEgZ",
+          "url":"https://homar.blog",
           "lang":"pl"
        },
        {
-          "id":19,
+          "id":18,
           "title":"Syntetyczna Intymność",
           "publisher":"Brutaż",
           "type":"Club/Installation",
           "date":"2019",
-          "url":"https://homar.blog/blog/seUhMFh7yvtprhWoLKcl",
+          "url":"https://homar.blog",
           "lang":"pl"
        },
        {
-          "id":20,
+          "id":19,
           "title":"Outro Cuteness",
           "publisher":"Galeria Arsenał",
           "type":"Online Installation",
           "date":"2018",
-          "url":"https://homar.blog/outrocuteness",
+          "url":"https://homar.blog",
           "lang":"en"
        },
        {
-          "id":21,
+          "id":20,
           "title":"K-punk: Mark Fisher",
           "publisher":"Unsound",
           "type":"Reading group",
@@ -181,16 +181,16 @@
           "lang":"en"
        },
        {
-          "id":22,
+          "id":21,
           "title":"Xeno-sexuality arrives from the future",
           "publisher":"HOMAR",
           "type":"Manifesto",
           "date":"2018",
-          "url":"https://homar.blog/manifesto/",
+          "url":"https://homar.blog",
           "lang":"en"
        },
        {
-          "id":23,
+          "id":22,
           "title":"Na podwórka #2",
           "publisher":"KRAKERS",
           "type":"Installation",
@@ -199,7 +199,7 @@
           "lang":"pl"
        },
        {
-          "id":24,
+          "id":23,
           "title":"Overcoding capitalism. Accelerating appropriation",
           "publisher":"UJ",
           "type":"Conference Paper",
@@ -208,7 +208,7 @@
           "lang":"en"
        },
        {
-          "id":25,
+          "id":24,
           "title":"Culture is an arche-fossil",
           "publisher":"Przegląd Kulturoznawczy",
           "type":"Research Paper",
@@ -217,7 +217,7 @@
           "lang":"en"
        },
        {
-          "id":26,
+          "id":25,
           "title":"Społeczeństwo wspólnej traumy",
           "publisher":"AGH",
           "type":"Research Paper",
@@ -226,7 +226,7 @@
           "lang":"pl"
        },
        {
-          "id":27,
+          "id":26,
           "title":"Culture is an arche-fossil",
           "publisher":"UJ",
           "type":"Conference Paper",
@@ -235,7 +235,7 @@
           "lang":"pl"
        },
        {
-          "id":28,
+          "id":27,
           "title":"Orgia Pasoliniego",
           "publisher":"Romanowicza 4",
           "type":"Theatre",
@@ -244,7 +244,7 @@
           "lang":"pl"
        },
        {
-          "id":29,
+          "id":28,
           "title":"0°DLL",
           "publisher":"Convivo",
           "type":"Poetry",
@@ -253,7 +253,7 @@
           "lang":"pl"
        },
        {
-          "id":30,
+          "id":29,
           "title":"Konspiracja i postironia w semiotyce postprawdy",
           "publisher":"Zakład",
           "type":"Essay",
@@ -262,11 +262,29 @@
           "lang":"pl"
        },
        {
-          "id":31,
+          "id":30,
           "title":"leucosis. hipo-sestyna [demo]",
           "publisher":"Trytytka",
           "type":"Poetry",
           "date":"2023",
+          "url":"",
+          "lang":"pl"
+       },
+       {
+          "id":31,
+          "title":"Eerie post-prawda",
+          "publisher":"Katedra Performatyki UJ",
+          "type":"Conference Paper",
+          "date":"2021",
+          "url":"",
+          "lang":"pl"
+       },
+       {
+          "id":32,
+          "title":"Oświecenie: wprowadzenie",
+          "publisher":"Wydawnictwo Libron",
+          "type":"Academic Paper",
+          "date":"2017",
           "url":"",
           "lang":"pl"
        }
