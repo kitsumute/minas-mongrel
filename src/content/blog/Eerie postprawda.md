@@ -14,14 +14,10 @@ tags:
 <sub> zmodyfikowany referat z konferencji _Wiedza i niewiedza_ Katedry Performatyki UJ </sub>
 
 UWAGA SPOILERY Z TRYLOGII SOUTHERN REACH
+</br>
+>><sub>*To, co postrzega się jako metaforę i fikcję, jest kamuflażem, wirotechniką, zstępującą różnicą w skali.*</sub> - <sub>Nick Land, Anarchitektura cyberprzestrzeni jako jungle-wojna</sub>
 
-
-
-
-<sub>*To, co postrzega się jako metaforę i fikcję, jest kamuflażem, wirotechniką, zstępującą różnicą w skali.*</sub>
-<sub>Nick Land, Anarchitektura cyberprzestrzeni jako jungle-wojna</sub>
-
-
+</br>
 Niewątpliwie postprawda jest ściśle związana z faktem, że algorytmy, jako formy zautomatyzowanej inteligencji, weszły do społecznych systemów komunikacji i rozpętały kryzysy polityczności, podmiotowości, czy wspólnoty. Można traktować algorytmy wyłącznie jako narzędzia znanych ideologii, przedłużenia organów czy instrumenty reprodukcji relacji władzy – tendencja ta dominuje wśród tych komentatorów, o ile wulgarnie nie zrównują postprawdy z jawnym zakłamywaniem rzeczywistości. Moim zdaniem ani jedno (organologiczne lub instrumentalne wyjaśnienia), ani drugie (rozporządzenia urzędników ministerstwa prawdy) nie uchwytuje złożoności i kierunku semiotycznej zmiany, jaka zaszła na platformach społecznościowych i następujących kryzysów, ponieważ przeoczają margines autonomii w zautomatyzowanej racjonalności algorytmów, będącej jednocześnie ośrodkiem ingerencji obcej inteligencji.
 
 Wychodzę od założenia, że w drugiej dekadzie XXI wieku zaczęto odczuwać wstrząsy po pewnym niezarejestrowanym wydarzeniu w infosferze, które do dzisiaj wpływa na wzorce postępowania użytkowniczek platform społecznościowych. Jeszcze niedawno mogło wydawać się, że odświeżanie, scrollowanie, pisanie komentarzy, itd. jest tylko cyfrowym przedłużeniem dotychczasowego życia społecznego. Z czasem, mimo że posługiwaliśmy się tymi samymi formami wyrażenia, co wcześniej, zaczęło nam towarzyszyć poczucie dziwnej osobliwości i wyobcowania w środowisku medialnym. Jednym z elementów tej osobliwości jest fascynacja tym środowiskiem, sprawiająca, że nie możemy się od niego oderwać. W końcu nazwaliśmy to _eerie_ zjawisko postprawdą. Choć postprawda wydaje się czymś znajomym, złożonym z elementów tak dobrze kojarzonych, że eksperci utrzymują, że mamy do czynienia jedynie z konwencjonalną wojną propagandową, to właśnie wraz z pojawieniem się platform społecznościowych przestaliśmy rozpoznawać nasze dotychczasowe otoczenie, reakcje i zachowania. Przekroczyliśmy punkt osobliwości ekologii medialnej. Moja teza jest więc taka: postprawda to system semiotyczny, w którym znaki, jak fake newsy czy wirale, na poziomie przedstawienia wyglądają znajomo, lecz uwarunkowane są przez obcą, zautomatyzowaną racjonalność.
@@ -59,9 +55,9 @@ Użytkowniczki mediów społecznościowych przypominają w tym bohaterkę *Unice
 
 ---
 
-[^1] Przekład na homar.blog -> prawy górny róg -> *blog* -> str. 2.
+[^1]: Przekład na homar.blog -> prawy górny róg -> *blog* -> str. 2.
 
-[^2] Wywiad N. Gledhilla z L. Parisi, *Luciana Parisi: The Holes in the Machine*, w: *nyx a nocturnal*, 7/2012, s. 133. {tł. własne}
+[^2]: Wywiad N. Gledhilla z L. Parisi, *Luciana Parisi: The Holes in the Machine*, w: *nyx a nocturnal*, 7/2012, s. 133. {tł. własne}
 
-[^3] http://k-punk.abstractdynamics.org/archives/009956.html
+[^3]: http://k-punk.abstractdynamics.org/archives/009956.html
 
