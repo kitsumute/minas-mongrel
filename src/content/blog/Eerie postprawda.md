@@ -24,7 +24,7 @@ UWAGA SPOILERY Z TRYLOGII SOUTHERN REACH
 <br>
 
 <sub>*To, co postrzega się jako metaforę i fikcję, jest kamuflażem, wirotechniką, zstępującą różnicą w skali.* -
-Nick Land, Anarchitektura cyberprzestrzeni jako jungle-wojna</sub>
+Nick Land, Anarchitektura cyberprzestrzeni jako wojna w dżungli</sub>
 
 <br>
 <br>
