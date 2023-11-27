@@ -1,7 +1,7 @@
 ---
 title: Eerie postprawda
 isDraft: false
-description: 
+description: eerie postprawda
 pubDate: 27 November 2023
 coverImage: ../../assets/meduza.jpg
 coverAlt: description
