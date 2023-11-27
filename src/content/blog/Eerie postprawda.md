@@ -3,7 +3,7 @@ title: Eerie postprawda
 isDraft: false
 description: eerie postprawda
 pubDate: 27 November 2023
-coverImage: ../../assets/meduza1.jpg
+coverImage: ../../assets/meduza.jpg
 coverAlt: description
 tags:
   - Postprawda
