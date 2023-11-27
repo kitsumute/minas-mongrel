@@ -1,23 +1,27 @@
 ---
 title: Eerie postprawda
 isDraft: false
-description: eerie postprawda
+description: 
 pubDate: 27 November 2023
 coverImage: ../../assets/meduza.jpg
 coverAlt: description
 tags:
   - Postprawda
   - Eerie
+  - Mark_Fisher
+  - Luciana_Parisi
+  - Scifi
+  - Obcość
 ---
 <sub><sub>grafika: @electric.fur</sub></sub>
-
-<sub> zmodyfikowany referat z konferencji _Wiedza i niewiedza_ Katedry Performatyki UJ </sub>
-
+<sub><sub> zmodyfikowany referat z konferencji _Wiedza i niewiedza_ Katedry Performatyki UJ </sub></sub>
+<br>
 UWAGA SPOILERY Z TRYLOGII SOUTHERN REACH
-</br>
->><sub>*To, co postrzega się jako metaforę i fikcję, jest kamuflażem, wirotechniką, zstępującą różnicą w skali.*</sub> - <sub>Nick Land, Anarchitektura cyberprzestrzeni jako jungle-wojna</sub>
+<br>
 
-</br>
+><sub>*To, co postrzega się jako metaforę i fikcję, jest kamuflażem, wirotechniką, zstępującą różnicą w skali.*</sub> - <br><sub>Nick Land, Anarchitektura cyberprzestrzeni jako jungle-wojna</sub></br>
+
+<br>
 Niewątpliwie postprawda jest ściśle związana z faktem, że algorytmy, jako formy zautomatyzowanej inteligencji, weszły do społecznych systemów komunikacji i rozpętały kryzysy polityczności, podmiotowości, czy wspólnoty. Można traktować algorytmy wyłącznie jako narzędzia znanych ideologii, przedłużenia organów czy instrumenty reprodukcji relacji władzy – tendencja ta dominuje wśród tych komentatorów, o ile wulgarnie nie zrównują postprawdy z jawnym zakłamywaniem rzeczywistości. Moim zdaniem ani jedno (organologiczne lub instrumentalne wyjaśnienia), ani drugie (rozporządzenia urzędników ministerstwa prawdy) nie uchwytuje złożoności i kierunku semiotycznej zmiany, jaka zaszła na platformach społecznościowych i następujących kryzysów, ponieważ przeoczają margines autonomii w zautomatyzowanej racjonalności algorytmów, będącej jednocześnie ośrodkiem ingerencji obcej inteligencji.
 
 Wychodzę od założenia, że w drugiej dekadzie XXI wieku zaczęto odczuwać wstrząsy po pewnym niezarejestrowanym wydarzeniu w infosferze, które do dzisiaj wpływa na wzorce postępowania użytkowniczek platform społecznościowych. Jeszcze niedawno mogło wydawać się, że odświeżanie, scrollowanie, pisanie komentarzy, itd. jest tylko cyfrowym przedłużeniem dotychczasowego życia społecznego. Z czasem, mimo że posługiwaliśmy się tymi samymi formami wyrażenia, co wcześniej, zaczęło nam towarzyszyć poczucie dziwnej osobliwości i wyobcowania w środowisku medialnym. Jednym z elementów tej osobliwości jest fascynacja tym środowiskiem, sprawiająca, że nie możemy się od niego oderwać. W końcu nazwaliśmy to _eerie_ zjawisko postprawdą. Choć postprawda wydaje się czymś znajomym, złożonym z elementów tak dobrze kojarzonych, że eksperci utrzymują, że mamy do czynienia jedynie z konwencjonalną wojną propagandową, to właśnie wraz z pojawieniem się platform społecznościowych przestaliśmy rozpoznawać nasze dotychczasowe otoczenie, reakcje i zachowania. Przekroczyliśmy punkt osobliwości ekologii medialnej. Moja teza jest więc taka: postprawda to system semiotyczny, w którym znaki, jak fake newsy czy wirale, na poziomie przedstawienia wyglądają znajomo, lecz uwarunkowane są przez obcą, zautomatyzowaną racjonalność.
@@ -42,7 +46,7 @@ Przez obcą sprawczość/racjonalność Parisi rozumie to, że w trakcie uczenia
 
 Użytkowniczki mediów społecznościowych przypominają w tym bohaterkę *Unicestwienia*, odkrywają teksty złożone ze znanych słów, lecz wymyka się im racjonalność tej mutacji odpowiedzialnej za konkretne układy znaków w bańkach społecznościowych. Przekształceniu ulega zatem cały system semiotyczny: przetwarzanie danych warunkuje zmiany w formach podmiotowości i ich reprezentacji. Znajome informacje odbijają się od siebie jak echo w medialnych komorach pogłosowych, które rozchodzi się, rozwidla i ucieka docierając do punktu zaniku poczucia znajomości. Podobnie jak w *Unicestwieniu*, *eerie* znaki w bańkach informacyjnych odsyłają do hiperobecności obcej inteligencji produkowanej przez algorytmy, które naśladują i przechwytują ludzkie wzorce postępowania. Postprawda okazuje się więc efektem transformacji ekologii mediów społecznościowych w Strefę X, która zainfekowała i zrakowaciała już środowiska znacznie oddalone od swoich ognisk. I niezależnie od tego, co zrobią użytkowniczki platform, Strefa X będzie się rozszerzać, bo aktywność na platformach produkuje dane, którymi ona się karmi. Każdy znak staje się potencjalnie sygnałem obcej inteligencji, która zaburza środowisko, w którym żyliśmy dotąd i wraz z jego przemianą same stajemy się obce, zafascynowane trajektorią zautomatyzowanych form rozumowania, czyli postprawdą.
 
-
+<br>
 + W trakcie przygotowywania referatu zauważyłem osobliwy numerycznie ciąg dat, PSEUDODOWÓD: 2013 Parisi wydaje *Contagious Architecture*, w 2014 wychodzi trylogia *Southern Reach*, w 2016 postprawda zostaje słowem roku Słownika Oxfordu, w 2017 Parisi publikuje *Reprogramming Decisionism* i w tym samym 2017 ukazuje się *The Weird and the Eerie* Fishera. Być może to bezwładny zbieg okoliczności, a może to inżynieria koincydencji wywołała wstrząsy gdzieś głęboko w maszynowych grotach i do dziś zmarszczki rozchodzą się na powierzchni infosfery.
 
 + *Nieuchronne bliźniactwo przypadku i konieczności. Jego aleatoryczne systemy nie są po prostu maszynami wytwarzającymi losowe efekty, ale, co znacznie istotniejsze, systemami, które przekształcają „przypadkowe spotkanie” w konieczność.* – Fisher, Weird/Psychoanalysis[^3]
@@ -51,7 +55,7 @@ Użytkowniczki mediów społecznościowych przypominają w tym bohaterkę *Unice
 
 + Hiperobecność – to nieodróżnialność obecności od nieobecności, inteligencji od jej braku, nie polega ona jednak na trudności we wskazaniu, gdzie zaczyna się a gdzie kończy podmiot czy nawiedzającą środowisko obecność, ale na tym, że znak staje się potencjalnie sygnałem obcej inteligencji. (Strefa X to jedno, ale trylogia Liu Cixina też ma wyraźnie *eerie* rys – tam znane nam prawa fizyki mogą być efektem ingerencji technologicznej we wcześniejsze prawa przeprowadzonej przez obce cywilizacje (a więc przestają być prawami a stają wzorcami informacyjnymi)).
 
-  
+  <br>
 
 ---
 
