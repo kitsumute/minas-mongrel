@@ -3,7 +3,7 @@ title: Eerie postprawda
 isDraft: false
 description: eerie postprawda
 pubDate: 27 November 2023
-coverImage: ../../assets/meduza3.jpg
+coverImage: ../../assets/meduza2.jpg
 coverAlt: description
 tags:
   - Postprawda
@@ -28,3 +28,4 @@ W *The Weird and the Eerie* Fisher bada dwa tytułowe tryby afektywne na przeci�
 
 W przypadku *weird* mamy do czynienia z „nadmiarem obecności, której rojenie się przekracza nasze zdolności przedstawienia jej sobie”. Przykłady Fishera, potworności Lovecrafta lub czarne dziury, wskazują na fundamentalną nieprawidłowość, „bycie nie tak”, lecz nie samej istoty lub zjawiska, a raczej naszego wyobrażenia o świecie, które załamuje się pod wpływem tychże nieprzystających istot. Czarne dziury zniekształcają czasoprzestrzeń, o czym wiemy dzięki technologiom i teoriom naukowym, ale wiedza ta nie zmienia faktu, że przeczą one zdrowemu rozsądkowi.
 
+*Eerie* tymczasem wyłania się z dwóch biegunowych, lecz diagonalnie sąsiednich przypadków: gdy dochodzi do klęski obecności, tj. coś jest obecne w jakiejś przestrzeni (lub czasie), w której niczego być nie powinno; albo gdy dochodzi do klęski nieobecności, tj. nie ma czegoś, co powinno być obecne. Ta alternatywa przekłada się również na sprawczość. Weźmy _Stalkera_ Tarkowskiego, w którym Zona wskazuje na działanie jakiejś inteligencji, chociaż nie możemy zobaczyć faktycznych sprawców anomalii fizycznych. Natomiast klęską nieobecności posługuje się np. Tadeusz Kantor zamieniając aktorów w coś między manekinem a automatonem, istotą pozbawioną sprawczości w ciele człowieka (bezwiednie spodziewamy się jego sprawczości). _Eerie_ unosi się zatem wokół śladów tego, co było w jakimś miejscu, a czego efekty nieodparcie odczuwamy, tak jakby odpowiedzialna za nie była inteligencja, lecz odeszła już lub skryła się poza zasięgiem naszej percepcji. Intencje tej obcej inteligencji pozostają dla nas nieznane, lecz jednocześnie kierują naszym doświadczeniem i śledzenie znaków, które pozostawia pozwala poznać ukryte mechanizmy codzienności (czasoprzestrzenią złożoną ze znajomych znaków, nawyków, ciał).
