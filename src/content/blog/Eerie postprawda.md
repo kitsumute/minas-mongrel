@@ -14,12 +14,13 @@ tags:
   - Obcość
 ---
 <sub><sub>grafika: @electric.fur</sub></sub>
+
 <sub><sub> zmodyfikowany referat z konferencji _Wiedza i niewiedza_ Katedry Performatyki UJ </sub></sub>
 <br>
 UWAGA SPOILERY Z TRYLOGII SOUTHERN REACH
 <br>
 
-><sub>*To, co postrzega się jako metaforę i fikcję, jest kamuflażem, wirotechniką, zstępującą różnicą w skali.*</sub> <br><sub>Nick Land, Anarchitektura cyberprzestrzeni jako jungle-wojna</sub>
+><sub>*To, co postrzega się jako metaforę i fikcję, jest kamuflażem, wirotechniką, zstępującą różnicą w skali.*</sub> >><sub>Nick Land, Anarchitektura cyberprzestrzeni jako jungle-wojna</sub>
 
 <br>
 <br>
