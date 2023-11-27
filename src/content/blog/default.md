@@ -1,6 +1,6 @@
 ---
 title: "#default"
-isDraft: false
+isDraft: true
 description: nothing here yet.
 pubDate: August 17 2023
 coverImage: ../../assets/neon.png
