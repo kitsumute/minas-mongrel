@@ -1,7 +1,7 @@
 ---
 title: Eerie postprawda
 isDraft: false
-description: eerie postprawda
+description: Być może to bezwładny zbieg okoliczności, a może inżynieria koincydencji wywołała wstrząsy gdzieś głęboko w maszynowych grotach, po których zmarszczki do dziś rozchodzą się na powierzchni infosfery.
 pubDate: 27 November 2023
 coverImage: ../../assets/meduza.jpg
 coverAlt: description
@@ -55,7 +55,7 @@ Użytkowniczki mediów społecznościowych przypominają w tym bohaterkę *Unice
 
 <br>
 
-+ W trakcie przygotowywania referatu zauważyłem osobliwy numerycznie ciąg dat, PSEUDODOWÓD: 2013 Parisi wydaje *Contagious Architecture*, w 2014 wychodzi trylogia *Southern Reach*, w 2016 postprawda zostaje słowem roku Słownika Oxfordu, w 2017 Parisi publikuje *Reprogramming Decisionism* i w tym samym 2017 ukazuje się *The Weird and the Eerie* Fishera. Być może to bezwładny zbieg okoliczności, a może to inżynieria koincydencji wywołała wstrząsy gdzieś głęboko w maszynowych grotach i do dziś zmarszczki rozchodzą się na powierzchni infosfery.
++ W trakcie przygotowywania referatu zauważyłem osobliwy numerycznie ciąg dat, PSEUDODOWÓD: 2013 Parisi wydaje *Contagious Architecture*, w 2014 wychodzi trylogia *Southern Reach*, w 2016 postprawda zostaje słowem roku Słownika Oxfordu, w 2017 Parisi publikuje *Reprogramming Decisionism* i w tym samym 2017 ukazuje się *The Weird and the Eerie* Fishera. Być może to bezwładny zbieg okoliczności, a może inżynieria koincydencji wywołała wstrząsy gdzieś głęboko w maszynowych grotach, po których zmarszczki do dziś rozchodzą się na powierzchni infosfery.
 
 + *Nieuchronne bliźniactwo przypadku i konieczności. Jego aleatoryczne systemy nie są po prostu maszynami wytwarzającymi losowe efekty, ale, co znacznie istotniejsze, systemami, które przekształcają „przypadkowe spotkanie” w konieczność.* – Fisher, Weird/Psychoanalysis[^3]
 
