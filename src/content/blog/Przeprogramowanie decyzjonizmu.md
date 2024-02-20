@@ -3,7 +3,7 @@ title: Przeprogramowanie decyzjonizmu
 isDraft: false
 description: ssss
 pubDate: 20 February 2024
-coverImage: ../../assets/meduza.jpg
+coverImage: ../../assets/20211105-164ALTERNATIVEKYOTOin宮津天橋立.jpg
 coverAlt: description
 tags:
   - Postprawda
@@ -11,7 +11,13 @@ tags:
   - Tłumaczenie
   - Algorytmy
   - Heidegger
+  - Komputacja
+  - Teoria_Krytyczna
 ---
+<sub><sub>photo: ©️ALTERNATIVE KYOTO 2021 Imagination as a Form of "Capital"</sub></sub>
+<sub><sub>Ryoji Ikeda, instalacja *data.flux*  </sub></sub>
+
+
 Luciana Parisi
 
 Przeprogramowanie decyzjonizmu

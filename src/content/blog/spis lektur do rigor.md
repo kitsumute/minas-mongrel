@@ -21,6 +21,7 @@ Husserl
 Comte & pozytywizm (1)
 Simmel
 Cassirer & koło wiedeńskie
+Gehlen - W kręgu antropologii 1 człowiek i technika; 2 automatyzmy 
 Carnap
 Freud
 Levi-Strauss
