@@ -1,11 +1,12 @@
 ---
 title: sztuczność AO
 isDraft: true
-description: 
+description: cytaty
 pubDate: 27 November 2023
 coverImage: ../../assets/meduza.jpg
 coverAlt: description
 tags:
+  - notka
 ---
 
 34 s/ „Capitalism institutes or restores all sorts of residual and **artificial**, imaginary, or symbolic territorialities, thereby attempting, as best it can, to recode, to rechannel persons who have been defined in terms of abstract quantities. Everything returns or recurs: States, nations, families. That is what makes the ideology of capitalism "a motley painting of everything that has ever been believed." The real is not impossible; it is simply more and more **artificial**. Marx termed the twofold movement of the tendency to a falling rate of profit, and the increase in the absolute quantity of surplus value, the law of the counteracted tendency. As a corollary of this law, there is the twofold movement of decoding or deterritorializing flows on the one hand, and their violent and **artificial** reterritorialization on the other.”

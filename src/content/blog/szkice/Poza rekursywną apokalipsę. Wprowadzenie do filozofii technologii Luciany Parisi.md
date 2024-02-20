@@ -1,11 +1,12 @@
 ---
 title: Poza rekursywną apokalipsę notatki
 isDraft: true
-description: 
+description: notka
 pubDate: 29 November 2023
 coverImage: ../../assets/meduza.jpg
 coverAlt: description
 tags:
+  - notka
 ---
 
 1a

@@ -1,11 +1,12 @@
 ---
 title: spis lektur
 isDraft: true
-description: 
+description: notka
 pubDate: 29 November 2023
 coverImage: ../../assets/meduza.jpg
 coverAlt: description
 tags:
+  - notka
 ---
 Platon
 Arystoteles

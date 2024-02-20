@@ -1,11 +1,12 @@
 ---
 title: Ballard & solarpunk & mistycyzm
 isDraft: true
-description: 
+description: notka
 pubDate: 29 November 2023
 coverImage: ../../assets/meduza.jpg
 coverAlt: description
-tags: []
+tags:
+  - notka
 ---
 
 Utopias and dystopias typically are presented as symetrical opposites. Utopia gives a consciously designed wishful world. Dystopia delivers a setting that warns us about the direction our society (like *1984* or *Handmade's tale*). But there's also a third genre that might in the most abstract sense be termed "xenotopia", which composes together elements of dystopia and utopia, not to flatten their differences, but rather in order to problematise both genres, or both modes of futuristic thought. Xenotopias can be broken down into two variants.
