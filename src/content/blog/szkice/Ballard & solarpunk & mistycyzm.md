@@ -3,7 +3,7 @@ title: Ballard & solarpunk & mistycyzm
 isDraft: true
 description: notka
 pubDate: 29 November 2023
-coverImage: ../../assets/meduza.jpg
+coverImage: ../../assets/neon.png
 coverAlt: description
 tags:
   - notka
