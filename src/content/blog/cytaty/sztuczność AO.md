@@ -3,7 +3,7 @@ title: sztuczność AO
 isDraft: true
 description: cytaty
 pubDate: 27 November 2023
-coverImage: D:/minas mongrel/assets/meduza2.jpg
+coverImage: ../../assets/meduza.jpg
 coverAlt: description
 tags:
   - notka
