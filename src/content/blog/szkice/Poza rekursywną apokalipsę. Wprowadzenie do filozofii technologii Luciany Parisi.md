@@ -1,3 +1,12 @@
+---
+title: Poza rekursywną apokalipsę notatki
+isDraft: true
+description: 
+pubDate: 29 November 2023
+coverImage: ../../assets/meduza.jpg
+coverAlt: description
+tags:
+---
 
 1a
 

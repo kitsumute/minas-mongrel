@@ -1,3 +1,12 @@
+---
+title: spis lektur
+isDraft: true
+description: 
+pubDate: 29 November 2023
+coverImage: ../../assets/meduza.jpg
+coverAlt: description
+tags:
+---
 Platon
 Arystoteles
 Stoicy
