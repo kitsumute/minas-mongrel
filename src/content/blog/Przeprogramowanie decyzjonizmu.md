@@ -1,7 +1,7 @@
 ---
 title: Przeprogramowanie decyzjonizmu
 isDraft: false
-description: Zamiast ogłaszać koniec myślenia metafizycznego i jego zwieńczenia w instrumentalności, ważniejsze wydaje się, aby powrócić tylnymi drzwiami do krytyki rozumowania instrumentalnego, ponownie otwierając pytanie o to, jak myśleć w kategoriach środków, poprzez które błąd, nieokreśloność, losowość i niewiadome w ogóle stały się częścią technicznonaukowej wiedzy i rozumowania maszyn.
+description: Zamiast ogłaszać koniec myślenia metafizycznego i jego zwieńczenie w instrumentalności, ważniejsze wydaje się, aby powrócić tylnymi drzwiami do krytyki rozumowania instrumentalnego, ponownie otwierając pytanie o to, jak myśleć w kategoriach środków, poprzez które błąd, nieokreśloność, losowość i niewiadome w ogóle stały się częścią technicznonaukowej wiedzy i rozumowania maszyn.
 pubDate: 20 February 2024
 coverImage: ../../assets/20211105-164ALTERNATIVEKYOTOin宮津天橋立.jpg
 coverAlt: description
@@ -40,7 +40,7 @@ W tych nowych warunkach techno-wymazywania metafizycznej prawdy Heidegger nalega
 
 To właśnie nowe wyobrażenie o tym, jak myśleć w epoce automatycznego poznania, nawiedza dzisiejszą politykę postprawdy. Znajdujemy się w impasie: nie możemy powrócić do dedukcyjnego modelu prawd idealnych, ale tak samo nie możemy polegać na metodzie indukcyjnej lub prostym sprawdzaniu faktów w celu weryfikacji prawdy. Jak przezwyciężyć ten impas? Trudno o zmianę perspektywy na to, czym może być technopolityka, bez próby rozwikłania najpierw tego fundamentalnego węzła łączącego filozofię i technonaukę, którego wciąż niepokoi twierdzenie Heideggera o tym, że transformacja metafizyki – niemożliwego do zademonstrowania warunku myślenia – w cybernetyczne obwody komunikacji wymaga artykulacji myślenia poza rozumem i jego instrumentalnością.
 
-Jako takie, dziedzictwo tej krytyki myślenia nadal wydaje się nie dopuszczać kwestii rozumowania instrumentalnego dziś, gdy maszyny sztucznej inteligencji lub boty przekodowały krytyczną perspektywę na ideologię prawdy i data-empiryzm sprawdzania faktów. Zamiast ogłaszać koniec myślenia metafizycznego i jego zwieńczenia w instrumentalności, ważniejsze wydaje się, aby powrócić tylnymi drzwiami do krytyki rozumowania instrumentalnego, ponownie otwierając pytanie o to, *jak myśleć* w kategoriach środków, poprzez które błąd, nieokreśloność, losowość i niewiadome w ogóle stały się częścią technicznonaukowej wiedzy i rozumowania maszyn.
+Jako takie, dziedzictwo tej krytyki myślenia nadal wydaje się nie dopuszczać kwestii rozumowania instrumentalnego dziś, gdy maszyny sztucznej inteligencji lub boty przekodowały krytyczną perspektywę na ideologię prawdy i data-empiryzm sprawdzania faktów. Zamiast ogłaszać koniec myślenia metafizycznego i jego zwieńczenie w instrumentalności, ważniejsze wydaje się, aby powrócić tylnymi drzwiami do krytyki rozumowania instrumentalnego, ponownie otwierając pytanie o to, *jak myśleć* w kategoriach środków, poprzez które błąd, nieokreśloność, losowość i niewiadome w ogóle stały się częścią technicznonaukowej wiedzy i rozumowania maszyn.
 
 <br>
 
