@@ -101,7 +101,7 @@ Zamiast ustalać ogólne wyniki na podstawie poszczególnych skojarzeń pojęcio
 
 [^8]: Tamże, s. 56.
 
-[^9]: For example, an AI system observing an image of a face with one eye in shadow may initially only see one eye. But after detecting that a face is present, it can then infer that a second eye is probably present as well. In this case, the graph of concepts only includes two layers – a layer for eyes and a layer for faces – but the graph of computations includes 2n layers, if we refine our estimate of each concept given the other n times.
+[^9]: Na przykład, system sztucznej inteligencji obserwujący obraz z twarzą, na którym jedno oko jest w cieniu, może początkowo widzieć tylko jedno oko. Jednak po wykryciu obecności twarzy może wywnioskować, że prawdopodobnie znajduje się tam także drugie oko. W tym przypadku graf pojęć obejmuje tylko dwie warstwy - warstwę oczu i warstwę twarzy - ale graf obliczeń obejmuje 2n warstw, jeśli doprecyzujemy nasze oszacowanie każdego pojęcia, biorąc pod uwagę pozostałe n razy.
 
 [^10]: A. Caliskan, J. J. Bryson, A. Narayanan, *Semantics derived automatically from language corpora contain human-like biases*, Science 356, nr 6334 (2017), s. 183-86.
 
