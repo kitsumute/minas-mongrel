@@ -1,281 +1,287 @@
 ---
-import HeaderLink from "./HeaderLink.astro";
-import { frontmatter } from "../info/about-data.md";
-import { Image } from "astro:assets";
-import logo from "../assets/logo_black_crop.webp";
-import topFossil from "../assets/circle-top-edited.png";
+import HeaderLink from './HeaderLink.astro';
+import {frontmatter} from '../info/about-data.md'
+import { Image } from 'astro:assets';
+import logo from '../assets/logo_black_crop.webp'
+import topFossil from '../assets/circle-top-edited.png'
 ---
 
 <header>
-  <div class="header__container">
-    <a class="header__logo" href="/">
-      <Image src={logo} alt="logo" width="374" height="108" />
-      <div class="hamburger-menu">
-        <span class="bar"></span>
-      </div>
-      <nav class="header__main-nav">
-        <HeaderLink class="nav_link" href="/about">About</HeaderLink>
-        <HeaderLink class="nav_link" href="/blog">Blog</HeaderLink>
-        <HeaderLink class="nav_link" href="/projects-writings">
-          Project/Writings
-        </HeaderLink>
-        <HeaderLink class="nav_link" href="/subscribe">Subscribe</HeaderLink>
-        <a class="nav_link" href={frontmatter.twitterLink} target="_blank"
-          >Twitter.</a
-        >
-      </nav>
-    </a>
-    <Image
-      class="top-image"
-      src={topFossil.url}
-      width="380"
-      height="903"
-      alt="fosiil"
-    />
+	<div class='header__container'>
+		<a class='header__logo' href="/">
+			<Image src={logo} alt="logo" width='374' height="108">
+		</a>
+	<div class="hamburger-menu">
+		<span class="bar"></span>
+		</div>
+	<nav class='header__main-nav'>
+		<HeaderLink class="nav_link" href="/about">About</HeaderLink>
+		<HeaderLink class="nav_link" href="/blog">Blog</HeaderLink>
+		<HeaderLink class="nav_link" href="/projects-writings">Project/Writings</HeaderLink>
+		<HeaderLink class="nav_link" href="/subscribe">Subscribe</HeaderLink>
+		<a class="nav_link" href={frontmatter.twitterLink} target="_blank">Twitter.</a>
+	</nav>
 
-    <script defer>
-      // Hamburger menu
-
-      const hamburgerMenu = document.querySelector(".hamburger-menu");
-      const navLinks = document.querySelector(".header__main-nav");
-      const body = document.body;
-      const header = document.querySelector(".header__container");
-
-      hamburgerMenu.addEventListener("click", () => {
-        const scrollY = window.scrollY;
-        hamburgerMenu.classList.toggle("is-open");
-        navLinks.classList.toggle("hidden");
-        body.classList.toggle("fixed");``
-
-        if (body.classList.contains("fixed")) {
-          body.style.top = `-${scrollY}px`;
-        } else {
-          const scrollY = parseInt(body.style.top || "0") * -1;
-          body.style.position = "";
-          body.style.top = "";
-          window.scrollTo(0, scrollY);
-        }
-      });
-
-      // Hide header while scrolling
-
-      let prevScrollpos = window.scrollY;
-      window.onscroll = function () {
-        let currentScrollPos = window.scrollY;
-        if (prevScrollpos < currentScrollPos && currentScrollPos > 200) {
-          header.style.top = "-90px";
-        } else {
-          header.style.top = "-0";
-        }
-        prevScrollpos = currentScrollPos;
-      };
-
-      // Dogo graphics in menu
-
-      function handleResize() {
-        const windowWidth = window.innerWidth;
-        const windowHeight = window.innerHeight;
-        const thresholdWidth = 1000;
-        const minHeight = 530;
-
-        if (windowWidth <= thresholdWidth && windowHeight > minHeight) {
-          const container = document.getElementById("dogo-container");
-          // Create the container and image if it doesn't exist
-          if (!container) {
-            const container = document.createElement("div");
-
-            container.style.width = "50vw";
-            container.style.alignSelf = "flex-start";
-            container.style.marginTop = "auto";
-            container.style.marginBottom = "1rem";
-
-            container.id = "dogo-container";
-
-            const img = new Image();
-            img.src = "/web-graph-elements/dogo.webp";
-            img.alt = "dogo";
-            img.width = "500";
-            img.height = "538";
-            img.loading = "lazy";
-            img.decoding = "async";
-
-            container.appendChild(img);
-            navLinks.appendChild(container);
-          }
-        } else {
-          const container = document.getElementById("dogo-container");
-          // Remove the container if it exists
-          if (container) {
-            container.remove();
-          }
-        }
-      }
-      // Initial check
-      handleResize();
-      // Add event listener for window resizing
-      window.addEventListener("resize", handleResize);
-    </script>
-    <style>
-      .header__container {
-        max-width: 93rem;
-        margin: 0 auto;
-        padding: 0.5rem 2rem;
-        display: flex;
-        background-color: #fff;
-        gap: 1.8rem;
-        align-items: flex-start;
-        justify-content: space-between;
-        transition: top 0.3s; /* Transition effect when sliding down (and up) */
-        z-index: 2;
-      }
-
-      .header__logo {
-        height: 108px;
-
-        & img {
-          display: block;
-          width: auto;
-          height: 100%;
-          object-fit: contain;
-        }
-      }
-
-      .hamburger-menu {
-        display: none;
-        z-index: 100;
-        cursor: pointer;
-        position: relative;
-        margin: auto 1rem;
-        width: 24px;
-        height: 18px;
-        pointer-events: all;
-
-        & .bar,
-        & .bar:after {
-          content: "";
-          position: absolute;
-          display: block;
-          background-color: #000;
-          height: 2px;
-          width: 100%;
-          transition: transform 0.3s ease-in-out;
-        }
-        & .bar {
-          top: 0rem;
-        }
-        & .bar:after {
-          top: 10px;
-        }
-
-        &.is-open {
-          .bar {
-            transform: rotate(45deg);
-            top: 5px;
-
-            &:after {
-              top: 0;
-              transform: rotate(-90deg);
-            }
-          }
-        }
-      }
-
-      .header__main-nav {
-        display: flex;
-        gap: 2rem;
-        flex-wrap: wrap;
-        z-index: 99;
-      }
-
-      @media (max-width: 1000px) {
-        .header__container {
-          position: fixed;
-          width: 100%;
-          padding: 0.5rem 1rem;
-          height: 80px;
-          top: 0;
-        }
-        .header__main-nav {
-          align-items: flex-end;
-          position: fixed;
-          top: 79px;
-          right: 0;
-          width: 100%;
-          height: calc(100svh - 80px + 1rem);
-          z-index: 2000;
-          background-color: #fff;
-          gap: 1.5rem;
-          flex-direction: column;
-          touch-action: none;
-          padding: 2rem;
-          transform: translate(102%, 0);
-          transition: transform 0.1s ease-in-out;
-
-          &.hidden {
-            transform: translate(0, 0);
-          }
-        }
-
-        .hamburger-menu {
-          display: block;
-        }
-
-        .header__logo {
-          height: 70px;
-        }
-      }
-
-      .nav_link {
-        text-decoration: none;
-        text-transform: lowercase;
-        transition: text-decoration 1s ease-in-out;
-
-        &:hover {
-          text-decoration: underline;
-        }
-
-        &.active {
-          font-weight: bolder;
-          text-decoration: underline;
-        }
-      }
-
-      /* Graphics top element */
-
-      .top-image {
-        position: absolute;
-        top: -15px;
-        right: -60px;
-        z-index: 1;
-        rotate: 5deg;
-      }
-
-      @media (max-width: 1804px) {
-        .top-image {
-          rotate: 10deg;
-          right: -100px;
-        }
-      }
-
-      @media (max-width: 1604px) {
-        .top-image {
-          rotate: 10deg;
-          right: -120px;
-        }
-      }
-
-      @media (max-width: 1304px) {
-        .top-image {
-          rotate: 14deg;
-          right: -140px;
-        }
-      }
-
-      @media (max-width: 1000px) {
-        .top-image {
-          display: none;
-        }
-      }
-    </style>
-  </div>
+	</div>
+	<Image  class='top-image' src={topFossil} width="380" height="903" alt="fosiil">
 </header>
+
+<script defer>
+	// Hamburger menu
+
+	const hamburgerMenu = document.querySelector('.hamburger-menu') 
+	const navLinks = document.querySelector('.header__main-nav')
+	const body = document.body;
+	const header = document.querySelector('.header__container')
+
+	hamburgerMenu.addEventListener('click', () => {
+		const scrollY = window.scrollY;
+		hamburgerMenu.classList.toggle('is-open')
+		navLinks.classList.toggle('hidden')
+		body.classList.toggle('fixed')
+
+		if (body.classList.contains('fixed')) {
+			body.style.top = `-${scrollY}px`;
+		} else {
+			const scrollY = parseInt(body.style.top || '0') * -1;
+			body.style.position = '';
+			body.style.top = '';
+			window.scrollTo(0, scrollY);
+			}
+		}
+	)
+
+	// Hide header while scrolling
+
+	let prevScrollpos = window.scrollY;
+	window.onscroll = function() {
+		let currentScrollPos = window.scrollY;
+		if ((prevScrollpos < currentScrollPos) && (currentScrollPos > 200)) {
+			header.style.top = "-90px";
+		} else {
+			header.style.top = "-0";
+		}
+		prevScrollpos = currentScrollPos;
+	}
+
+	// Dogo graphics in menu
+	
+	function handleResize() {
+	const windowWidth = window.innerWidth;
+	const windowHeight = window.innerHeight
+	const thresholdWidth = 1000;
+	const minHeight = 530;
+
+	if ((windowWidth <= thresholdWidth) && (windowHeight > minHeight)) {
+		const container = document.getElementById('dogo-container');
+		// Create the container and image if it doesn't exist
+		if (!container) {
+			const container = document.createElement('div');
+
+			container.style.width = '50vw';
+			container.style.alignSelf = 'flex-start';
+			container.style.marginTop = 'auto';
+			container.style.marginBottom = '1rem';
+
+			container.id = 'dogo-container';
+
+			const img = new Image();
+			img.src = '/web-graph-elements/dogo.webp';
+			img.alt ='dogo'
+			img.width = '500'
+			img.height='538'
+			img.loading = 'lazy'
+			img.decoding = 'async'
+
+			container.appendChild(img);
+			navLinks.appendChild(container);
+				}
+		} else {
+			const container = document.getElementById('dogo-container');
+			// Remove the container if it exists
+			if (container) {
+			container.remove();
+			}
+		}
+	}
+	// Initial check
+	handleResize();
+	// Add event listener for window resizing
+	window.addEventListener('resize', handleResize);
+
+
+</script>
+<style>
+
+	.header__container {
+		max-width: 93rem;
+		margin: 0 auto;
+		padding: 0.5rem 2rem;
+		display: flex;
+		background-color: #fff;
+		gap: 1.8rem;
+		align-items: flex-start;
+		justify-content: space-between;
+		transition: top 0.3s; /* Transition effect when sliding down (and up) */
+		z-index: 2
+	}
+
+	.header__logo {
+		height: 108px;
+
+		& img {
+			display: block;
+			width: auto;
+			height: 100%;
+			object-fit: contain;
+		}
+	}
+
+	.hamburger-menu {
+	display: none;
+    z-index: 100;
+    cursor: pointer;
+	position: relative;
+	margin: auto 1rem;
+    width: 24px;
+    height: 18px;
+    pointer-events: all;
+
+    & .bar,
+    & .bar:after {
+        content: '';
+        position: absolute;
+        display: block;
+        background-color: #000;
+		height: 2px;
+        width: 100%;
+		transition: transform .3s ease-in-out;
+
+    }
+    & .bar {
+        top: 0rem;
+    }
+    & .bar:after {
+        top: 10px;
+    }
+
+	&.is-open {
+
+        .bar {
+          transform: rotate(45deg);
+          top: 5px;
+
+          &:after {
+            top: 0;
+            transform: rotate(-90deg);
+          }
+        }
+      }
+	}
+
+	.header__main-nav {
+		display: flex;
+		gap: 2rem;
+		flex-wrap: wrap;
+		z-index: 99;
+
+	}
+
+	@media (max-width: 1000px) {
+
+		.header__container {
+		position: fixed;
+		width: 100%;
+		padding: 0.5rem 1rem;
+		height: 80px;
+		top: 0;
+	}
+		.header__main-nav {
+		align-items: flex-end;
+		position: fixed;
+		top: 79px;
+		right: 0;
+		width: 100%;
+		height: calc(100svh - 80px + 1rem);
+		z-index: 2000;
+		background-color: #fff;
+		gap: 1.5rem;
+		flex-direction: column;
+		touch-action: none;
+		padding: 2rem;
+		transform: translate(102%, 0);
+		transition: transform .1s ease-in-out;
+
+
+		&.hidden {
+			transform: translate(0, 0);
+		}
+	}
+
+	.hamburger-menu {
+		display: block;
+	}
+
+		
+	.header__logo {
+		height: 70px;
+		}
+	}
+
+	.nav_link {
+		text-decoration: none;
+		text-transform: lowercase;
+		transition: text-decoration 1s ease-in-out;
+
+		&:hover {
+			text-decoration:underline;
+		}
+
+		&.active {
+			font-weight: bolder;
+			text-decoration:underline
+		}
+}
+
+
+/* Graphics top element */
+	
+		.top-image {
+			position: absolute;
+			top: -15px;
+			right: -60px;
+			z-index: 1;
+			rotate: 5deg;
+		}
+
+		@media (max-width: 1804px) {
+			.top-image {
+				rotate: 10deg;
+				right: -100px;
+			}
+		}
+
+		
+		@media (max-width: 1604px) {
+			.top-image {
+				rotate: 10deg;
+				right: -120px;
+			}
+		}
+
+		@media (max-width: 1304px) {
+			.top-image {
+				rotate: 14deg;
+				right: -140px;
+			}
+		}
+
+		@media (max-width: 1000px) {
+			.top-image {
+				display: none;
+			}
+		}
+
+
+
+</style>

@@ -33,7 +33,7 @@ const isThereRelated = relatedPosts.length > 0
 
 <html lang="en">
 	<head>
-		<BaseHead title={`${title} | ${SITE_TITLE}`} description={description} image={coverImage} />
+		<BaseHead title={`${title} | ${SITE_TITLE}`} description={description} image={coverImage.src} />
 	</head>
 	<body>
 		<div>
@@ -41,7 +41,7 @@ const isThereRelated = relatedPosts.length > 0
 		<main>
 			<div class="cover-image">
 			<div class="image-wrapper">
-				<Image  data-pagefind-meta="image[src], image_alt[alt]" src={coverImage}alt={coverAlt} width='1200' height='600' quality={'high'} loading='eager'/>
+				<Image  data-pagefind-meta="image[src], image_alt[alt]" src={coverImage} alt={coverAlt} width='1200' height='600' quality={'high'} loading='eager'/>
 			</div>
 			
 		</div>
