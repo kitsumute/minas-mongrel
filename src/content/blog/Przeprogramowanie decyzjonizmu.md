@@ -128,24 +128,24 @@ Architektura Nowego Brutalizmu zamienia instrumenty myślenia w betonowe, modula
 
 [^9]: Na przykład, system sztucznej inteligencji obserwujący obraz z twarzą, na którym jedno oko jest w cieniu, może początkowo widzieć tylko jedno oko. Jednak po wykryciu obecności twarzy może wywnioskować, że prawdopodobnie znajduje się tam także drugie oko. W tym przypadku graf pojęć obejmuje tylko dwie warstwy - warstwę oczu i warstwę twarzy - ale graf obliczeń obejmuje 2n warstw, jeśli doprecyzujemy nasze oszacowanie każdego pojęcia, biorąc pod uwagę pozostałe n razy.
 
-[^10]: A. Caliskan, J. J. Bryson, A. Narayanan, *Semantics derived automatically from language corpora contain human-like biases*, Science 356, nr 6334 (2017), s. 183-86.
+[^10]:  A. Caliskan, J. J. Bryson, A. Narayanan, *Semantics derived automatically from language corpora contain human-like biases*, Science 356, nr 6334 (2017), s. 183-86.
 
-[^11]: K. N. Hayles, *Cognition Everywhere: The Rise of the Cognitive Nonconscious and the Costs of Consciousness*, New Literary History 45, nr 2 (2014).
+[^11]:  K. N. Hayles, *Cognition Everywhere: The Rise of the Cognitive Nonconscious and the Costs of Consciousness*, New Literary History 45, nr 2 (2014).
 
-[^12]: L. Daston, *The Rule of Rules*, wykład, Wissenschaftskolleg Berlin, 21 listopada 2010.
+[^12]:  L. Daston, *The Rule of Rules*, wykład, Wissenschaftskolleg Berlin, 21 listopada 2010.
 
-[^13]: K. N. Hayles, *How We Think: Digital Media and Contemporary Technogenesis*, Chicago 2012.
+[^13]:  K. N. Hayles, *How We Think: Digital Media and Contemporary Technogenesis*, Chicago 2012.
 
-[^14]: R. Ridgway, *From Page Rank to Rank Brain*, 2017, https://machineresearch.wordpress.com/2016/09/26/renee-ridgway-title/.
+[^14]:  R. Ridgway, *From Page Rank to Rank Brain*, 2017, https://machineresearch.wordpress.com/2016/09/26/renee-ridgway-title/.
 
-[^15]: R. Braidotti, T. Vermeulen, J. Aranda, B. K. Wood, S. Squibb, A. Vidokle, *Editorial: The New Brutality*, e-flux journal 83 (June 2017) http://www.e-flux.com/journal/83/142721/editorial-the-new-brutality/.
+[^15]:  R. Braidotti, T. Vermeulen, J. Aranda, B. K. Wood, S. Squibb, A. Vidokle, *Editorial: The New Brutality*, e-flux journal 83 (June 2017) http://www.e-flux.com/journal/83/142721/editorial-the-new-brutality/.
 
-[^16]: G. Deleuze, F. Guattari, *What Is Philosophy?*, przeł. H. Tomlinson, G. Burchell, New York 1994, s. 99.
+[^16]:  G. Deleuze, F. Guattari, *What Is Philosophy?*, przeł. H. Tomlinson, G. Burchell, New York 1994, s. 99.
 
-[^17]: Tamże.
+[^17]:  Tamże.
 
-[^18]: Tamże, s. 10.
+[^18]:  Tamże, s. 10.
 
-[^19]: G. Deleuze, *On the New Philosophers and a More General Problem*, Discourse: Journal for Theoretical Studies in Media and Culture 20, no. 3 (1998).
+[^19]:  G. Deleuze, *On the New Philosophers and a More General Problem*, Discourse: Journal for Theoretical Studies in Media and Culture 20, no. 3 (1998).
 
-[^20]: R. Banham, *The New Brutalism: Ethic or Aesthetic?*, London 1966.
+[^20]:  R. Banham, *The New Brutalism: Ethic or Aesthetic?*, London 1966.
