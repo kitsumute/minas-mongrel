@@ -16,15 +16,18 @@ title: Diuna & solarpunk & eko-dżihad
 UWAGA SPOILERY Z FILMÓW I KSIAŻEK UNIWERSUM DIUNY
 
 <br>
+
 <sub> *Podczas gdy dla technokapitalizmu pustynia jest źródłem oleistości maszyn wojennych i hiperkonsumpcji kapitalizmu na drodze do osobliwości, dla Dżihadu ropa jest katalizatorem przyspieszającym nadejście Królestwa, pustyni. Tak więc dla Dżihadu pustynia leży na końcu ropociągu* - Reza Negarestani, *Cyclonopedia*, s. 35</sub>
 
 <br>
+
 <sub>*Stawanie się pustynią samo w sobie jest krańcową platformą komunikacji z Boskością.* -
 Reza Negarestani, *Cyclonopedia*, s. 149</sub>
 
 <br>
+
 <sub>*Pustynia rośnie: biada, w kim się kryje!* - Fryderyk Nietzsche, *Tako rzecze Zaratustra*, *Wśród cór pustyni*</sub>
-<br>
+
 <br>
 
 0
@@ -175,6 +178,7 @@ Możliwe, że *Diuna* (jak i wszystkie te hollywoodzkie, canneńskie i koreańsk
 [^4]: Tego jeszcze nie jestem pewny, mówi się o wyłanianiu się neofeudalizmu (o czym świadczy m. in. zainteresowanie dobrami wspólnymi na lewicy), mi się wydaje, że dzisiejsi magnaci technologiczni nawiązują bardziej do monarchii absolutnej. Niezależnie od ostatecznych form, będzie to jakaś forma autorytaryzmu, którego celem będzie poskramianie oddolnych ruchów anarchiczno-autonomistycznych.
 
 [^5]: Diagram Greimasa-Jamesona ![](../../assets/Greimas.png)
+[^6]:
 
 [^7]: Reguła amtal, na którą powołuje się Dżamis, gdy nie zgadza się ze Stilgarem, by przyjmować Jessikę i Paula.
 
