@@ -16,12 +16,14 @@ title: Diuna & solarpunk & eko-dżihad
 UWAGA SPOILERY Z FILMÓW I KSIAŻEK UNIWERSUM DIUNY
 
 <br>
-<sub>*Podczas gdy dla technokapitalizmu pustynia jest źródłem oleistości maszyn wojennych i hiperkonsumpcji kapitalizmu na drodze do osobliwości, dla Dżihadu ropa jest katalizatorem przyspieszającym nadejście Królestwa, pustyni. Tak więc dla Dżihadu pustynia leży na końcu ropociągu* - Reza Negarestani, *Cyclonopedia*, s. 35</sub>
+<sub> *Podczas gdy dla technokapitalizmu pustynia jest źródłem oleistości maszyn wojennych i hiperkonsumpcji kapitalizmu na drodze do osobliwości, dla Dżihadu ropa jest katalizatorem przyspieszającym nadejście Królestwa, pustyni. Tak więc dla Dżihadu pustynia leży na końcu ropociągu* - Reza Negarestani, *Cyclonopedia*, s. 35</sub>
+
 <br>
 <sub>*Stawanie się pustynią samo w sobie jest krańcową platformą komunikacji z Boskością.* -
 Reza Negarestani, *Cyclonopedia*, s. 149</sub>
+
 <br>
-<sub>*Pustynia rośnie: biada, w kim się kryje! - Fryderyk Nietzsche, *Tako rzecze Zaratustra*, *Wśród cór pustyni*</sub>
+<sub>*Pustynia rośnie: biada, w kim się kryje!* - Fryderyk Nietzsche, *Tako rzecze Zaratustra*, *Wśród cór pustyni*</sub>
 <br>
 <br>
 
