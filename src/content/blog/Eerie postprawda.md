@@ -10,7 +10,7 @@ tags:
   - Eerie
   - Mark_Fisher
   - Luciana_Parisi
-  - Scifi
+  - Sci-fi
   - Obcość
 ---
 <sub><sub>grafika: @electric.fur</sub></sub>
