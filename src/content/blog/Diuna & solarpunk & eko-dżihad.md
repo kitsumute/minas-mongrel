@@ -168,6 +168,10 @@ Możliwe, że *Diuna* (jak i wszystkie te hollywoodzkie, canneńskie i koreańsk
 
 [^1]: M. Stachowicz, *„Diuna”: Kontrasty nie z tego świata*, https://krytykapolityczna.pl/kultura/film/marcin-stachowicz-diuna-villeneuve/
 
+[^2]:
+
+[^3]:
+
 [^4]: Tego jeszcze nie jestem pewny, mówi się o wyłanianiu się neofeudalizmu (o czym świadczy m. in. zainteresowanie dobrami wspólnymi na lewicy), mi się wydaje, że dzisiejsi magnaci technologiczni nawiązują bardziej do monarchii absolutnej. Niezależnie od ostatecznych form, będzie to jakaś forma autorytaryzmu, którego celem będzie poskramianie oddolnych ruchów anarchiczno-autonomistycznych.
 
 [^5]: Diagram Greimasa-Jamesona ![](../../assets/Greimas.png)
