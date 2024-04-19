@@ -152,6 +152,11 @@ Jedyne wyjście z Fatum - jako uwarstwionego produktu ludzkiej woli i okoliczno�
 
 Ballanche i Krasiński stawiają niżej umysłowość grecką, bo zamknięta jest w fatum – tragedia kończy się porażką wszystkich bohaterów. Czego jednak nie biorą pod uwagę – a o czym pisze Girard – to, że tragedia umożliwia oczyszczenie miasta, zatrzymanie spirali przemocy w studni krwi, a po następuje niej ekspiacja, anastrofa, Feniks. Istnieje jakieś podziemne przejście między starożytnym mitem Feniksa a formułą Nicka Landa i Sadie Plant: to, co jest katastrofą z wnętrza historii, jest anastrofą nieświadomości. Anastrofa nie jest jednak odtworzeniem starego świata, a inną logiką – powtórzeniem z różnicą. „W teorii palingenezy właśnie można było zawrzeć wiedzę o konieczności upadku i cierpienia oraz pewność zbawienia i rehabilitacji; doprowadzić do mistycznej harmonii idee rewolucji i ewolucji jednocześnie”. Nie potrafię na razie zinterpretować tej pewności zbawienia, choć wstępnie powiedziałbym zbawienie = łaska = zmiana logiki, nawet jeśli, paradoksalnie, zmiana ta jest na gorsze (patrz: omawienie wektorializmu przez McKenzie Wark). Warte zachowania z tragicznej umysłowości greckiej - a co znów zbiega się z formułą Land-Plant - jest to, że to nie my jesteśmy celem, nie zachowanie naszego istnienia, lecz wyprodukowanie nowej umysłowości, która przyjdzie po nas i będzie gotowa żyć inaczej. Nasze miejsce jest wewnątrz tragedii.
 
+
+![](../../assets/lose.jpg)
+
+
+
 Możemy teraz zatoczyć spiralę [^20]. Istnieją analogie między polską romantyczną umysłowością a Fremenami lub klimatyczną Al-Qaedą, oczekującymi Lisana al-Gaiba, Głosu spoza świata, by zaprowadził ich do Zielonego Raju na planecie rozdzieranej przez imperialną politykę, wyzyskujący system ekonomiczny i katastrofy ekologiczne. Złota Droga Kwisatz Haderacha przebiega przez diagram solarpunku, który stapia ze sobą Los, Opatrzność i Wolę w jedno pytanie: jak skanalizować planetarne energie anarchii w zintegrowany i wielowektorowy dżihad przeciwko bezwładnemu opadaniu Ziemi ku Arrakis.
 
 <br>
@@ -164,6 +169,8 @@ Kult jednostki to pewna forma kultu podobizny czy ikony, który nie zniknie dop�
 
 Możliwe, że *Diuna* (jak i wszystkie te hollywoodzkie, canneńskie i koreańskie produkcje wywołujące przyjemność z krzywdy wyrządzanej bogatym na ekranie), tak jak socrealizm, ma opanować i zneutralizować wybuchowe energie społeczne wytworzone przez przemiany klimatyczne. Nawet jeśli, to zawsze gdy próbuje się coś kontrolować, doprowadza się do proliferacji tego, co system miał kontrolować - w tym wypadku Hollywood rysuje diagram solarpunku[^21].
 
+![](../../assets/ptaszydła.jpg)
+
 <br>
 
 9::0 | 0511
@@ -173,22 +180,22 @@ Możliwe, że *Diuna* (jak i wszystkie te hollywoodzkie, canneńskie i koreańsk
 
 
 
-[^1]: M. Stachowicz, *„Diuna”: Kontrasty nie z tego świata*, https://krytykapolityczna.pl/kultura/film/marcin-stachowicz-diuna-villeneuve/
+[^1]: M. Stachowicz, [*„Diuna”: Kontrasty nie z tego świata*](https://krytykapolityczna.pl/kultura/film/marcin-stachowicz-diuna-villeneuve/)
 
-[^2]:
+[^2]: G. Mann & J. Wainwright [*Climate Leviathan*](http://library.lol/main/6C7B6159E8FB4B01F759244556602DA8)
 
-[^3]:
+[^3]: S. Sellars, [*“Extreme Possibilities”: Mapping “the sea of time and space” in J G Ballard’s Pacific fictions*](https://www.monash.edu/__data/assets/pdf_file/0005/1763654/sellars.pdf)
 
-[^4]: Tego jeszcze nie jestem pewny, mówi się o wyłanianiu się neofeudalizmu (o czym świadczy m. in. zainteresowanie dobrami wspólnymi na lewicy), mi się wydaje, że dzisiejsi magnaci technologiczni nawiązują bardziej do monarchii absolutnej. Niezależnie od ostatecznych form, będzie to jakaś forma autorytaryzmu, którego celem będzie poskramianie oddolnych ruchów anarchiczno-autonomistycznych.
+[^4]: Mówi się o tym, że tworzy się system neofeudalizmu (o czym świadczy zarówno system wektorialistycznego władcy z pańszczyzną danych, jak i zainteresowanie dobrami wspólnymi na lewicy), lecz wydaje mi się, że dzisiejsi magnaci technologiczni nawiązują bardziej do monarchii absolutnej. Niezależnie od ostatecznych form, będzie to jakaś forma autorytaryzmu, którego celem będzie poskramianie oddolnych ruchów anarchiczno-autonomistycznych.
 
-[^5]: Diagram Greimasa-Jamesona ![](../../assets/Greimas.png)
-[^6]:
+[^5]: Fredrick Jameson w przedmowie do *On Meaning. Selected Writings in Semiotic Theory* (s. XIX) wykorzystuje kwadrat semiotyczny A.J. Greimas do pokazania relacji między epokami stylistycznymi w XIX wieku. Kwadrat, który tak naprawdę jest spiralą - po czasie ironii, który w XX wieku nazwano postmodernizmem, przychodzi czas post-ironii, romantyczności i jedności (choć już inaczej rozumianej niż w sto lub dwieście lat temu, oczywiście). ![](../../assets/Greimas.png)
+[^6]: Z artykułu syntetyzującegi książkę: G. Mann & J. Wainwright [*Climate Leviathan*](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/4/45440/files/2017/04/Wainwright-Mann-2013-Climate-Leviathan-oqsypw.pdf)
 
-[^7]: Reguła amtal, na którą powołuje się Dżamis, gdy nie zgadza się ze Stilgarem, by przyjmować Jessikę i Paula.
+[^7]: Reguła *amtal*, na którą powołuje się Dżamis, gdy nie zgadza się ze Stilgarem, by przyjmować Jessikę i Paula.
 
 [^8]: A forma w tym quasi-hylemorficznym modelu = przemoc.
 
-[^9]: *rozprzestrzeniać pustynię to poszerzać ścieżkę Dżihadu* - R. Negarestani, *Cyclonopedia*, s. 151.
+[^9]: *...rozprzestrzeniać pustynię to poszerzać ścieżkę Dżihadu* - R. Negarestani, *Cyclonopedia*, s. 151.
 
 [^10]: W *The Subversive Seventies* Michael Hardt analizuje aktywizm lewicowy lat 70. i zauważa tam, że właśnie ze względu na brutalne ataki terrorystyczne oddolne organizacje lewicowe o radykalnych programach politycznych straciły poparcie społeczeństwa. Z tego płyną dwa wnioski: jeden, nie można powtórzyć tego błędu, a dwa, być może brak bojówek gotowych do niszczenia własności prywatnej jest - obok neoliberalnego postmodernistycznego konsumpcjonizmu - istotnym powodem bezsilności lewicy w ciągu ostatnich dekad.
 
@@ -198,15 +205,15 @@ Możliwe, że *Diuna* (jak i wszystkie te hollywoodzkie, canneńskie i koreańsk
 
 [^13]: Pustynia = "Desert (AQ = 125). The Xerodrome (or the dry-singutarity of the Earth) as both the all-erasing monopoly of the monotheistic Cod and the Tellurian Omega or the plane of base-participation with the cosmic pandemonium (Dust. Sun and the Tellurian Insider). Desert signifies a militant horizontality o a treacherous plane of consistency — in a Deleuze-Guattarian sense — between monotheistic apocalypticism and Tellurian Insurgency against the Sun (god). As a dry-singulanty, desert is usually linked to unheard-of wet elements and thus brings about the possibility of revolutionary but anomalous (and perhaps weird) cosmogenesis or world-building processes". Reza Negarestani, *Cyclonopedia*, s. 238.
 
-[^14]: O czym piszę w tekście o eerie postprawdzie, Fisherze i *Annihilacji*, https://www.minasmongrel.xyz/blog/eerie-postprawda/ .
+[^14]: O czym piszę w tekście [o eerie postprawdzie, Fisherze i *Annihilacji*](https://www.minasmongrel.xyz/blog/eerie-postprawda/).
 
 [^15]: Nb pod tym względem Villeneuve w ciekawszy sposób podszedł do pomysłu o nakręceniu dokumentu o przyrodzie w *Diunie*, który rzuciła Klara Cykorz w recenzji dla Dwutygodnika. Zamiast brać Arrakis za przedmiot do przedstawienia w obrazie sięgnął on po metodę dokumentalną, by stworzyć ścieżkę dźwiękową, która stanie się podkładem dla obrazowania *Diuny*. Przykładem tego jest soundscape pustyni, producenci Diuny pojechali na pustynię, gdzie zrozumieli, że świszczący wiatr lub "dojmująca cisza" pustyni to właśnie leniwy stereotyp, bo wydmy śpiewają lub zawodzą, ruchy mas piasku wydają dronowe dźwięki o różnej wysokości, które mają znaczny udział *eerie* klimacie filmu.
 
-[^16]: Polecam serię podcastów *Charismatic Revival Fury: The New Apostolic Reformation*, https://icjs.org/charismatic-revival-fury/ .
+[^16]: Polecam serię podcastów [*Charismatic Revival Fury: The New Apostolic Reformation*](https://icjs.org/charismatic-revival-fury/).
 
-[^17]: To wniosek z monologu Luthena Raela (Stellan Skarsgård) z serialu *Andor*, który jest jednym z lepszych popkulturowych obrazów rewolucji jako godnego i romantycznego ale potencjalnie bezowocnego wysiłku, https://www.youtube.com/watch?v=-3RCme2zZRY.
+[^17]: To wniosek z [monologu Luthena Raela (Stellan Skarsgård) z serialu *Andor*](https://www.youtube.com/watch?v=-3RCme2zZRY), który jest jednym z lepszych popkulturowych obrazów rewolucji jako godnego i romantycznego ale potencjalnie bezowocnego wysiłku.
 
-[^18]: Powtarzane w książce przez Paula: "a więc dokonuje się".
+[^18]: Powtarzane w książce przez Paula: *a więc dokonuje się*.
 
 [^19]: Ostatnio Malabou, która obecnie skierowała swoją uwagę na rozwijanie myśli anarchistycznej, zauważyła, że staliśmy się tak głęboko sformatowani przez indywidualizm, że jesteśmy niezdolni do poświęceń, a przez to jesteśmy chodzącymi trupami. Gotowość do poświęcenia życia jest wg niej warunkiem polityki (nie chodzi oczywiście o nierozważne rzucanie się na imperialny aparat opresji).
 
