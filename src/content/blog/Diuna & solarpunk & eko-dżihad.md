@@ -152,10 +152,11 @@ Jedyne wyjście z Fatum - jako uwarstwionego produktu ludzkiej woli i okoliczno�
 
 Ballanche i Krasiński stawiają niżej umysłowość grecką, bo zamknięta jest w fatum – tragedia kończy się porażką wszystkich bohaterów. Czego jednak nie biorą pod uwagę – a o czym pisze Girard – to, że tragedia umożliwia oczyszczenie miasta, zatrzymanie spirali przemocy w studni krwi, a po następuje niej ekspiacja, anastrofa, Feniks. Istnieje jakieś podziemne przejście między starożytnym mitem Feniksa a formułą Nicka Landa i Sadie Plant: to, co jest katastrofą z wnętrza historii, jest anastrofą nieświadomości. Anastrofa nie jest jednak odtworzeniem starego świata, a inną logiką – powtórzeniem z różnicą. „W teorii palingenezy właśnie można było zawrzeć wiedzę o konieczności upadku i cierpienia oraz pewność zbawienia i rehabilitacji; doprowadzić do mistycznej harmonii idee rewolucji i ewolucji jednocześnie”. Nie potrafię na razie zinterpretować tej pewności zbawienia, choć wstępnie powiedziałbym zbawienie = łaska = zmiana logiki, nawet jeśli, paradoksalnie, zmiana ta jest na gorsze (patrz: omawienie wektorializmu przez McKenzie Wark). Warte zachowania z tragicznej umysłowości greckiej - a co znów zbiega się z formułą Land-Plant - jest to, że to nie my jesteśmy celem, nie zachowanie naszego istnienia, lecz wyprodukowanie nowej umysłowości, która przyjdzie po nas i będzie gotowa żyć inaczej. Nasze miejsce jest wewnątrz tragedii.
 
+<br>
 
 ![](../../assets/lose.jpg)
 
-
+<br>
 
 Możemy teraz zatoczyć spiralę [^20]. Istnieją analogie między polską romantyczną umysłowością a Fremenami lub klimatyczną Al-Qaedą, oczekującymi Lisana al-Gaiba, Głosu spoza świata, by zaprowadził ich do Zielonego Raju na planecie rozdzieranej przez imperialną politykę, wyzyskujący system ekonomiczny i katastrofy ekologiczne. Złota Droga Kwisatz Haderacha przebiega przez diagram solarpunku, który stapia ze sobą Los, Opatrzność i Wolę w jedno pytanie: jak skanalizować planetarne energie anarchii w zintegrowany i wielowektorowy dżihad przeciwko bezwładnemu opadaniu Ziemi ku Arrakis.
 
@@ -169,7 +170,9 @@ Kult jednostki to pewna forma kultu podobizny czy ikony, który nie zniknie dop�
 
 Możliwe, że *Diuna* (jak i wszystkie te hollywoodzkie, canneńskie i koreańskie produkcje wywołujące przyjemność z krzywdy wyrządzanej bogatym na ekranie), tak jak socrealizm, ma opanować i zneutralizować wybuchowe energie społeczne wytworzone przez przemiany klimatyczne. Nawet jeśli, to zawsze gdy próbuje się coś kontrolować, doprowadza się do proliferacji tego, co system miał kontrolować - w tym wypadku Hollywood rysuje diagram solarpunku[^21].
 
-![](../../assets/ptaszydła.jpg)
+<br>
+
+![](../../assets/ptaszydla.jpg)
 
 <br>
 
