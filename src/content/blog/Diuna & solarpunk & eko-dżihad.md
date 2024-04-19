@@ -81,6 +81,7 @@ Eko-dżihad z perspektywy europejskiej brzmi ekstremalnie, dudni jak puszka Pand
 Problem projektowany przez diagram solarpunku i *Diunę* można przeformułować jeszcze inaczej: co musimy zrobić, by Behemot morfował w tysiącach otoczonych czcią ikon, buzi, pysków i paszczęk, a nie w służbę kultu jednej twarzy. Wydaje mi się, że konieczna przemiana musi być szersza niż instytucje polityczne i ekonomiczne, czy styl estetyczny - poziomy, na których skupiała się nowoczesna umysłowość - ale jednocześnie o wiele bliższa i głębsza niż zaangażowanie w społeczeństwie obywatelskim. *Diuna* lokuje tę energię Behemota w religii, bo nie znamy innej matrycy, niż religia, która byłaby zdolna do czegoś tak całościowego i radykalnego (łac. *radix* – korzeń, rdzeń). Religia stanowi dawno niepróbowany wehikuł rewolucji społecznej, zdolny do stworzenia nowej ekologii umysłowości lub horyzontu metafizycznego. Pod coraz ostrzejszym słońcem i z coraz głębszymi cieniami jedyną drogą, jaka nam pozostała, naszym Przeznaczeniem, jest radykalna przemiana duchowa - illuminacja zamiast oświecenia.
 
 <br>
+
 ![](../../assets/pradziad.png)
 
 <br>
