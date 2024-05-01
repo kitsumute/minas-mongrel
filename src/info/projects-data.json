@@ -287,6 +287,32 @@
           "date":"2017",
           "url":"",
           "lang":"pl"
-       }
+       },
+       {
+          "id":33,
+          "title":"Luciana Parisi - Kolonializm rekursywny i kosmokomputacja",
+          "publisher":"Machina Myśli",
+          "type":"Translation",
+          "date":"2024",
+          "url":"https://machinamysli.org/kolonializm-rekursywny-i-kosmokomputacja/",
+          "lang":"pl"
+       },
+       {
+          "id":34,
+          "title":"Poza rekursywną apokalipsę. Wprowadzenie do filozofii technologii Luciany Parisi",
+          "publisher":"Machina Myśli",
+          "type":"Essay",
+          "date":"2024",
+          "url":"https://machinamysli.org/poza-rekursywna-apokalipse-wprowadzenie-do-filozofii-technologii-luciany-parisi",
+          "lang":"pl"
+       },
+       {
+          "id":35,
+          "title":"Spotkanie przy opuszczonym basenie z Patrickiem Leftwichem: 0°DLL. Rozmawia Joanna Łępicka",
+          "publisher":"Stoner Polski",
+          "type":"Video",
+          "date":"2024",
+          "url":"https://youtu.be/N3ycyXpQBXo?si=5GHny4bql4UfWHdx",
+          "lang":"pl"
     ]
  
