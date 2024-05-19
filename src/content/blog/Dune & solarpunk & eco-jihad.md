@@ -1,6 +1,6 @@
 ---
 title: Dune & solarpunk & eco-jihad
-isDraft: 
+isDraft: false
 description: Denis Villeneuve with *Blade Runner 2049* employed an iconic cyberpunk movie to make a symbolic transition to a solarpunk aesthetic that exposes a transformation of political imagery already underway; transformation of what is necessary and possible to imagine a community. This search for a new aesthetics for tales of power and the political is necessitated by accelerating global climate change.
 pubDate: 19 May 2024
 coverImage: ../../assets/diuna.jpg
