@@ -1,5 +1,5 @@
 ---
-title: Przeprogramowanie decyzjonizmu
+title: Luciana Parisi - Przeprogramowanie decyzjonizmu
 isDraft: false
 description: Zamiast ogłaszać koniec myślenia metafizycznego i jego zwieńczenie w instrumentalności, ważniejsze wydaje się, aby powrócić tylnymi drzwiami do krytyki rozumowania instrumentalnego, ponownie otwierając pytanie o to, jak myśleć w kategoriach środków, poprzez które błąd, nieokreśloność, losowość i niewiadome w ogóle stały się częścią technicznonaukowej wiedzy i rozumowania maszyn.
 pubDate: 20 February 2024
