@@ -105,7 +105,7 @@ W tym kontekście ważny był dla mnie rozdział o Domarusie w *Niedzielnych zie
 
 Architektura czarnych skrzynek, którą wzniesiono do komputacyjnej obsługi technologii sieciowych, stworzyła matrycę dla rozwoju nowego modelu semiotyczno-technicznego opartego na alegorii poprzecznej. Nie jest ona jednak po prostu środkiem stylistycznym, a figuracją modelu instytucji kształtujących własne formy podmiotowości, komonerów i SI w zbiegu. Nie chodzi oczywiście o jednoznaczne rozróżnienia na złą sieć i dobre czarne skrzynki. Byłoby to absurdalne biorąc pod uwagę funkcjonowanie serwerowni, modeli algorytmiczne, blockchain, personalizację treści, patenty - wektorialistyczna infrastruktura składa się zarówno z sieci jak i czarnych skrzynek. "Otwarty internet" zanika już jednak od dłuższego czasu i następuje coraz agresywniejsze grodzenie zarówno cyfrowego jak i geograficznego krajobrazu, lecz jak zawsze przemiana systemu stawia mu nowe problemy, a wyzwanie dla tego, będzie kontrola informacji lub determinowanie znaczenia. W tej perspektywie można widzieć wiralizację treści na mediach społecznościowych, jako dekontekstualizację znaczenia generowanego przez głębokość leju lub strzelistość łuku w pionach alegorycznych - jako kontrolę przez dekontekstualizację, przez wygładzanie powierzchni, podłączanie z powrotem do struktury/sieci i symbolicznego modelu znaczeniowości. Eksploruj gramatyki czarnych skrzynek w imię instytucjonalnej intensyfikacji złożoności życia. Odejmij alegorię od sieci i odzyskaj cały byt.
 
->>>>>>>>>>>>>>>>>>>>>>>>>S - 1(A) -> 0
+							S - 1(A) -> 0
 
 >>>"Zatem, jeśli cokolwiek możemy się nauczyć z obecnej sytuacji, to być może to, że praktyczne nieistnienie może wyłonić się z bycia, które jest praktycznie nieistniejące, że bycie subtraktywne (*n – 1*) może być najlepszym sposobem na redukcję (*degrow*) nadużyć władzy.
 >>>
@@ -140,18 +140,18 @@ Architektura czarnych skrzynek, którą wzniesiono do komputacyjnej obsługi tec
 
 [^11]: Tamże, s. 220.
 
-[^13]: Przemiany technologiczne infrastruktury komputacji doprowadziły do tak głębokich modyfikacji stosunków społecznych, że McKenzie Wark proponuje nazwać obecną epokę wektorializmem, by zaznaczyć jej głęboką różnicę w stosunku do XIX- i XX-wiecznego kapitalizmu. Wektorializm charakteryzuje się w większym stopniu kontrolą wektora informacji, niż posiadaniem środków produkcji.
+[^12]: Przemiany technologiczne infrastruktury komputacji doprowadziły do tak głębokich modyfikacji stosunków społecznych, że McKenzie Wark proponuje nazwać obecną epokę wektorializmem, by zaznaczyć jej głęboką różnicę w stosunku do XIX- i XX-wiecznego kapitalizmu. Wektorializm charakteryzuje się w większym stopniu kontrolą wektora informacji, niż posiadaniem środków produkcji.
 
-[^14]: https://en.wikipedia.org/wiki/Wireless_ad_hoc_network
+[^13]: https://en.wikipedia.org/wiki/Wireless_ad_hoc_network
 
-[^15]: "Już cybernetycy problematyzowali czarne skrzynki, były kluczowe dla rozwoju technologii komputerowych. W skrócie, podmiot behawioryzmu był podmiotem jako czarną skrzynką. Węzeł w systemie cybernetycznym był węzłem jako czarną skrzynką. Racjonalny uczestnik w scenariuszu teorii gier był uczestnikiem jako czarną skrzynką", *Uncomputable...*, s. 186.
+[^14]: "Już cybernetycy problematyzowali czarne skrzynki, były kluczowe dla rozwoju technologii komputerowych. W skrócie, podmiot behawioryzmu był podmiotem jako czarną skrzynką. Węzeł w systemie cybernetycznym był węzłem jako czarną skrzynką. Racjonalny uczestnik w scenariuszu teorii gier był uczestnikiem jako czarną skrzynką", *Uncomputable...*, s. 186.
 
-[^16]: Tamże, s. 194.
+[^15]: Tamże, s. 194.
 
-[^17]: Tamże. "In fact, digital objects themselves are defined as the intersection between two protocols (two technologies), not as a result of some human being’s semantic projection of meaning into form. Once material is digitized, any recognizable “content” is merely the artificial parsing of the digital substrate into a predictable, template-driven chunk—what computer scientists call a “struct.” Any sense of the “content” of data emerges as an epiphenomenon of human behavior previously collected, as seen in the pagerank algorithms used by search engines, or the output of machine learning. In short, a new model of reading will have to be explored, one that is not simply hermeneutic in nature, but also about cybernetic parsing, scanning, rearranging, filtering, and interpolating. This new model of reading will need to be based on an immanent or machinic notion of software."
+[^16]: Tamże. "In fact, digital objects themselves are defined as the intersection between two protocols (two technologies), not as a result of some human being’s semantic projection of meaning into form. Once material is digitized, any recognizable “content” is merely the artificial parsing of the digital substrate into a predictable, template-driven chunk—what computer scientists call a “struct.” Any sense of the “content” of data emerges as an epiphenomenon of human behavior previously collected, as seen in the pagerank algorithms used by search engines, or the output of machine learning. In short, a new model of reading will have to be explored, one that is not simply hermeneutic in nature, but also about cybernetic parsing, scanning, rearranging, filtering, and interpolating. This new model of reading will need to be based on an immanent or machinic notion of software."
 
-[^18]: Tamże, s. 199-200.
+[^17]: Tamże, s. 199-200.
 
-[^19]: *Niedzielne ziemie...*, s. 91.
+[^18]: *Niedzielne ziemie...*, s. 91.
 
-[^20]: *Uncomputable...*, s. 201.
+[^19]: *Uncomputable...*, s. 201.
