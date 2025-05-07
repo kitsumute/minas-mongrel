@@ -6,7 +6,7 @@ description: |-
   Curatorial text for the exhibition *I felt it, it was like Evanescence* during Cracow Art Week KRAKERS 2025
 pubDate: 07 May 2025
 coverImage: ../../assets/blask.jpg
-coverAlt: 
+coverAlt: description
 tags:
   - vibe_theory
   - ludics
