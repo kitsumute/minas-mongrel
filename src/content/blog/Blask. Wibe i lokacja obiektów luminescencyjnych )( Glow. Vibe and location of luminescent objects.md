@@ -3,7 +3,7 @@ title: Blask. Wibe i lokacja obiektów luminescencyjnych )( Glow. Vibe and locat
 isDraft: false
 description: "Otaczają cię ruiny wyprawy, która jest chronomachiną w ruinie. Znajdziesz tu artefakty luminescencyjne: obrazy, lampy, abażury, płaskorzeźby, świeczniki, dzięki którym możesz zorientować się w ruinie, rozszyfrować, kim jesteś, co to za miejsce, dokąd prowadzi historia. Poniżej jest rejestr przydatnych informacji, ksiąg i przekazów."
 pubDate: 07 May 2025
-coverImage: ../../assets/blask.jpg
+coverImage: ../../assets/DSC01502.jpg
 coverAlt: description
 tags:
   - vibe_theory
@@ -152,7 +152,7 @@ If there are eerie artworks, artificial glows, phantoms and natural phenomena, t
 
 <br>
 
-![](../../assets/DSC01502.jpg)
+![](../../assets/blask.jpg)
 
 <br>
 
