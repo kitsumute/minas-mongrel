@@ -19,7 +19,7 @@ tags:
 
 <br>
 
-### Blask. Wibe i lokacja obiektów luminescencyjnych
+#### Blask. Wibe i lokacja obiektów luminescencyjnych
 
 <br>
 
@@ -32,7 +32,9 @@ I
 Fala elektromagnetyczna to zaburzenie pola elektromagnetycznego, *wibracja* rozchodząca się w przestrzeni i zmieniająca bieg wypadków. Od czasu, gdy James Clerk Maxwell odkrył analogię między prędkością fali elekromagnetycznej a prędkością światła, wiemy, że światło jest zakresem tej fali odbieranym przez oko. Prędkość, energia i długość fali zależy od ośrodka jej propagacji. Ciągły zakres wszystkich możliwych fal elektromagnetycznych nazywany jest widmem elektromagnetycznym. Światło dociera do nas zawsze poprzez zaniepokojone medium. Widzimy w zniekształceniach. Każde zakłócenie elektromagnetyczne wpuszcza zjawiska niosące komunikaty optyczne z zaświatów, spoza świata światła widzialnego. Dlatego lustra wody to witryny nieumarłych. Strumienie fotonów zatopione w kałużach jak powierzchniach refrakcji wyobraźni. Przechylenie nawet kilku stopni w kącie padania światła odkrywa nowy gatunek cienia. Migotanie okazuje się eposem w mikroaktach, jeśli rozszerzysz wystarczająco źrenice. Wyobraźmy sobie światło tak wolne, tak spowolnione, że oglądalibyśmy nieskończone spełzanie zorzy z lamp wypełniające pokój lepką poświatą. Albo okamgnienie zatrzymane na obrazie jak refleks. Cywilizację definiują techniki materializacji światła, sztuka przemienienia świetlistej chwili w metaliczną substancję—w procesie tej transfotomutacji porządek wrażeń ulega zakłóceniu. Cute przechodzi w groteskę, łuna oddziela abiekt od fascynacji, lustr rozmywa się w smutek. Zmetalizowane światło staje się powierzchnią dla innego świata, odbiciem następnej opowieści. Koncentrycznie rozchodzący się wieczny powrót. A może nie, może to czysta fantazja. W niej kończy się każda historia i wygasza swoje fale.
 
 <br>
+
 ![](../../assets/blask2.jpg)
+
 <br>
 
 II
@@ -104,7 +106,7 @@ Dawid Kujawa, *Niedzielne ziemie. Poezja i dobra wspólne*.
 
 <br>
 
-### Glow. Vibe and location of luminescent objects
+#### Glow. Vibe and location of luminescent objects
 
 <br>
 
