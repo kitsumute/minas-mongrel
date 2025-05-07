@@ -37,7 +37,7 @@ Fala elektromagnetyczna to zaburzenie pola elektromagnetycznego, *wibracja* rozc
 <br>
 
 <figure class='larger-image'>
-<img src='/blask2.jpg' alt="evanescence." decoding='async' loading='lazy'/>
+<img src='../../assets/blask2.jpg' alt="evanescence." decoding='async' loading='lazy'/>
 
 <br>
 
