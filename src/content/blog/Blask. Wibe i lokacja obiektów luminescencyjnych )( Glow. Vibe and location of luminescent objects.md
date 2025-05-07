@@ -5,7 +5,7 @@ description: |-
   Tekst kuratorski przy wystawie *I felt it, it was like Evanescence* w ramach Cracow Art Week KRAKERS 2025
   Curatorial text for the exhibition *I felt it, it was like Evanescence* during Cracow Art Week KRAKERS 2025
 pubDate: 07 May 2025
-coverImage: ../../assets/DSC01610.jpg
+coverImage: ../../assets/blask.jpg
 coverAlt: 
 tags:
   - vibe_theory
