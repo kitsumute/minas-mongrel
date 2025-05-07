@@ -12,9 +12,12 @@ tags:
 ---
 <sub><sub>english version below</sub></sub>
 
+<br>
+
 ---
 
 <br>
+
 <sub><sub>Tekst kuratorski przy wystawie *I felt it, it was like Evanescence* w ramach Cracow Art Week KRAKERS 2025</sub></sub>
 
 <br>
@@ -76,7 +79,9 @@ Wróciliśmy do początku, gdzie miejsce zatacza spiralę. Locus: wir ambiwalenc
 <br>
 
 osoby artystyczne: Ernest Borowski, Arek Dec, Ryo Koike
+
 kuratorzy: Arec Dec, Patrick Leftwich
+
 galeria C U AT SADKA
 
 <br>
@@ -104,6 +109,7 @@ Dawid Kujawa, *Niedzielne ziemie. Poezja i dobra wspólne*.
 <br>
 
 ---
+
 <br>
 
 <sub><sub>Curatorial text for the exhibition *I felt it, it was like Evanescence* during Cracow Art Week KRAKERS 2025</sub></sub>
@@ -165,7 +171,9 @@ We are back at the beginning, where place loops into a spiral. Locus: a vortex o
 <br>
 
 artists: Ernest Borowski, Arek Dec, Ryo Koike
+
 curators: Arec Dec, Patrick Leftwich
+
 C U AT SADKA gallery
 
 <br>
