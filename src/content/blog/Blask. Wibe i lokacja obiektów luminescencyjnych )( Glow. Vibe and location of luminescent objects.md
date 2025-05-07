@@ -1,9 +1,7 @@
 ---
 title: Blask. Wibe i lokacja obiektów luminescencyjnych )( Glow. Vibe and location of luminescent objects
 isDraft: false
-description: |-
-  Tekst kuratorski przy wystawie *I felt it, it was like Evanescence* w ramach Cracow Art Week KRAKERS 2025
-  Curatorial text for the exhibition *I felt it, it was like Evanescence* during Cracow Art Week KRAKERS 2025
+description: "Otaczają cię ruiny wyprawy, która jest chronomachiną w ruinie. Znajdziesz tu artefakty luminescencyjne: obrazy, lampy, abażury, płaskorzeźby, świeczniki, dzięki którym możesz zorientować się w ruinie, rozszyfrować, kim jesteś, co to za miejsce, dokąd prowadzi historia. Poniżej jest rejestr przydatnych informacji, ksiąg i przekazów."
 pubDate: 07 May 2025
 coverImage: ../../assets/blask.jpg
 coverAlt: description
@@ -16,6 +14,8 @@ tags:
 
 <br>
 <sub><sub>Tekst kuratorski przy wystawie *I felt it, it was like Evanescence* w ramach Cracow Art Week KRAKERS 2025</sub></sub>
+
+<br>
 
 <br>
 
@@ -62,7 +62,9 @@ IV
 Chcąc poznać *początek*, pewien francuski logik, Jean-Yves Girard, stwierdził, że na początku jest lokacja znaku, a dopiero po niej przychodzi znaczenie, typ i określona wartość logiczna, jak prawda lub fałsz. Jeśli umiejscowienie poprzedza prawdę, to w czystym miejscu, *locus*, panuje niejednoznaczność, która daje o sobie znać, np. w przypadkowych homonimach. Sam Girard rozpoczyna swoje *Locus Solem* od iście czarnoksięskiej gry słownej roztoczonej wokół wyrazu *An-fang*. Znak posiada miejsce w projekcie odsyłającym do wielości innych miejsc, zanim dowiemy się skąd pochodzi, jaki jest jego świat źródłowy, a jaki docelowy. Oprócz lokacji, czyli funkcji lokatywnej znaku, Girard wyróżnił jego funkcję duchową, związaną z tradycyjnymi technikami abstrakcji w logice, która dąży do wskazania struktur ustanawiających izomorfizmy między dowodami i obrazami. *Jak* projekty, czyli schematy ambiwalencji, wypadków i zakłóceń semiotycznych, generują trans-lokacyjne duchowe znaczenie. *Locus Solem*, liczy się tylko miejsce, *go back to An-Fang*, stąd wyrusza wyprawa, portal do izomorficznych obrazów, zintegrowanych długością oscylacji, wibem, wibracją, wirem po drugiej stronie portalu, gdzie zmierza początek. Na Zewnątrz. Powrót do początku. Locus. Blask lub błysk wyobraźni dekodujący scenę z codzienności jako następną lokację w tym osobliwym eposie, ulotna przemiana świadomości przenosi do zapomnianego wymiaru codzienności. Na mapie nieświadomości roziskrzone wektory powracają do wirtualnego miejsca. Jak ponawiana dywinacja we wciąż wydobywanego z ciemności reliefu.
 
 <br>
+
 ![](../../assets/DSC01941.jpg)
+
 <br>
 
 V
@@ -95,6 +97,7 @@ Olivia L. Fraser, *Go back to An-Fang*.
 Dawid Kujawa, *Niedzielne ziemie. Poezja i dobra wspólne*.
 
 <br>
+
 ![](../../assets/DSC02009.jpg)
 
 <br>
@@ -117,6 +120,7 @@ What surrounds you are the ruins of a journey that is a chronomachina in ruins. 
 An electromagnetic wave is a disturbance in an electromagnetic field, a *vibration* that propagates through space and alters the course of events. Since James Clerk Maxwell discovered the analogy between the speed of an electromagnetic wave and the speed of light, we know that light is the range of this wave perceived by the eye. Speed, energy and oscillation of a wave depends on the medium of its propagation. The continuous range of all possible electromagnetic waves is called the electromagnetic spectrum. Light always reaches us through a perturbed medium. We see in distortions. Each electromagnetic distortion lets in phenomena conveying optical messages from the realm beyond visible light. That is why water tables are mirrors for the undead. Streams of photons sink into puddles like refractive surfaces of the imagination. Even a tilt by a few degrees in the angle of incidence reveals a new species of shadow. Flicker appears to be an epic in microacts if you dilate your pupils enough. Imagine a light so slow, so slowed down, that you would be watching an endless aurora crawling down a lamp filling a room with a viscous gleam. Or an eyeblink frozen into an image like a reflexion. Civilisation is defined by techniques of light materialisation, the art of transforming a luminous moment into a metallic substance—in the process of this transfotomutation, the order of sensation breaks down. Cute becomes grotesque, blaze separates the abject from the fascinating, lustre blurs into sadness. Metallised light becomes a surface for another world, a reflection of another tale. A concentrically diffused eternal return. Or maybe not, maybe it is pure fantasy. Therein every story ends and fades its ripples.
 
 <br>
+
 ![](../../assets/DSC01930.jpg)
 
 <br>
@@ -140,6 +144,7 @@ Light phenomena, electromagnetic waves, phosphorescence, optical refraction are 
 If there are eerie artworks, artificial glows, phantoms and natural phenomena, then there is also eerie vibe. What does it mean to generate eerie art objects? It would be a vibe schematised by an autoencoder out of vibrations of something on the outside, pulling fascination towards something apart from the formatted structures prevailing in the source world. When the source of the vibration is not of this world, and the propagating wave has only traversed and disturbed our medium, what is it that we decode through the eerie vibe? Sensitised to a particular type of eerie, we open up a portal in the world for alien intent, for distant incantations, for the reverberation of imagination, dreams and the unconscious.
 
 <br>
+
 ![](../../assets/DSC01502.jpg)
 
 <br>
