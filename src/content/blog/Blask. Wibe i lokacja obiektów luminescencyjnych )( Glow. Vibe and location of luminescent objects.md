@@ -12,10 +12,10 @@ tags:
 ---
 <sub><sub>english version below</sub></sub>
 
-<br>
-<sub><sub>Tekst kuratorski przy wystawie *I felt it, it was like Evanescence* w ramach Cracow Art Week KRAKERS 2025</sub></sub>
+---
 
 <br>
+<sub><sub>Tekst kuratorski przy wystawie *I felt it, it was like Evanescence* w ramach Cracow Art Week KRAKERS 2025</sub></sub>
 
 <br>
 
@@ -78,6 +78,7 @@ Wróciliśmy do początku, gdzie miejsce zatacza spiralę. Locus: wir ambiwalenc
 osoby artystyczne: Ernest Borowski, Arek Dec, Ryo Koike
 kuratorzy: Arec Dec, Patrick Leftwich
 galeria C U AT SADKA
+
 <br>
 
 Baza danych:
