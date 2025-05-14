@@ -1,7 +1,7 @@
 ---
 title: Notes on After Speculative Realism (2025)
 isDraft: false
-description: A series of somewhat made coherent notes on articles on speculation, correlationism and post-critical thought.
+description: A series of notes on articles on speculation, correlationism and post-critical thought.
 pubDate: 14 May 2025
 coverImage: ../../assets/after.jpg
 coverAlt: description
@@ -10,9 +10,9 @@ tags:
   - Correlationism
   - Quentin_Meillassoux
   - Immanuel_Kant
-  - Post-critical_ontology
+  - Post-critique
 ---
-A series of somewhat made coherent notes on articles on speculation, correlationism and post-critical thought.
+A series of somewhat coherent notes on articles on speculation, correlationism and post-critical thought.
 
 <br>
 
