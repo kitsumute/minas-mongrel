@@ -7,7 +7,7 @@ coverImage: ../../assets/DSC015021.jpg
 coverAlt: description
 tags:
   - vibe_theory
-  - ludics
+  - ludics_logic
   - Eerie
 ---
 <sub><sub>english version below</sub></sub>
