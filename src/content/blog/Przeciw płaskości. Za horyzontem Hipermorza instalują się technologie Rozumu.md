@@ -1,6 +1,6 @@
 ---
 title: Przeciw płaskości. Gdzie kończy się Hipermorze, zaczynają się technologie Rozumu
-isDraft: 
+isDraft: false
 description: O ile płaskie ontologie lokują myślenie w niezapośredniczonej materii lub przedmiotach, a Brassier w reprezentacjach społeczno-semantycznych reguł językowych, tak tutaj *loci* myślenia są idee problemowe generowane przez technologie.
 pubDate: 20 June 2025
 coverImage: ../../assets/Uccello.jpg
