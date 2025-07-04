@@ -86,9 +86,13 @@ Rozwój tej teorii wymaga technologizacji doktryny idei, czyli badania technolog
 Teksty:
 
 R. Brassier, *Deleveling: Against ‘Flat Ontologies’*
+
 Gilles Deleuze, *Różnica i powtórzenie*
+
 I. Kant, *Krytyka czystego rozumu*
+
 A. Neimanis, *Hydrofeminism: Or, On Becoming a Body of Water*
+
 A. Neimanis, *Bodies of Water. Posthuman Feminist Phenomenology*.
 
   <br>
