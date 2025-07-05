@@ -81,7 +81,6 @@ Brassier trafnie eksponuje słabości płaskich ontologii i posthumanistycznych 
 
 ![Grafika wykonana przez @electric.fur na podstawie szkicu Paolo Uccello](../../assets/uccello_diagram_pl.jpg)
 
-<br>
 
 <sub><sub>Grafika wykonana przez @electric.fur na podstawie szkicu Paolo Uccello</sub></sub>
 
