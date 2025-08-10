@@ -36,7 +36,7 @@ This question of symmetry is taken up by several time-travel and teleportation s
 
 <br>
 
-![(../../assets/muscogenesis.png)
+![](../../assets/muscogenesis.png)
 
 
 The *“Measurement & specialization” zone* of the diagram points to transcendental structures (access to ever-more refined technical analysis/capture, scientific analysis, (philosophical) concepts, etc.). When, e.g., a *concept* is construed, it symmetrically actuates/imprints itself in being or matter, it becomes a form of intuition, a framework of perception. When science cuts at reality, it too expresses itself and creates ever-more refined bifurcations. This is why we represented this structure in fractal-form. This can also be understood to refer to the heard/unheard diagram on the following page (which we also worked on together), since repetitive deployment of concepts can bring forth two types of noise: 1) one that is blocked and repressed, as is evident, e.g., in relation to media coverage of the ongoing genocide of Palestinians: their stories, suffering and death are systemically, by design, unheard; 2) the other is constituted by the concept. The concept, such as “a proton,” by determining and mediating certain phenomena, composes noise that requires further specification into different kinds of concepts (e.g., quarks), as well as technical means to access these and further refine both the concepts and the (technical, scientific) access. However, continued *specification/spcialization* in pursuit of understanding complexity can itself *collapse into noise*, because there is a finite amount of notions and relations that one can grasp phenomenologically and account for structurally and discursively (e.g., Wittgenstein, or, if you prefer: Lacan).
