@@ -25,5 +25,5 @@ pnpm-debug.log*
 
 #Obsidian file
 src/content/blog/.obsidian/*
-src/content/blog/cytaty/*
+src/content/blog/różne/*
 src/content/blog/szkice/*
