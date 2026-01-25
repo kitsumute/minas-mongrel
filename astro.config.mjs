@@ -9,15 +9,18 @@ import vercel from "@astrojs/vercel/serverless";
 export default defineConfig({
   site: 'https://minasmongrel.xyz/',
   output: 'hybrid',
+
   adapter: vercel({
     runtime: 'nodejs20'
   }),
-});
+
   integrations: [mdx(), sitemap(), react()],
+
   experimental: {
     assets: true
   },
+
   markdown: {
     remarkPlugins: [remarkGfm]
-  },
+  }
 });
