@@ -20,4 +20,5 @@ export default defineConfig({
   markdown: {
     RemarkPlugins: [remarkGfm]
   }
+    ^
 });
