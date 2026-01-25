@@ -11,14 +11,13 @@ export default defineConfig({
   output: 'hybrid',
   adapter: vercel({
     runtime: 'nodejs20'
-  })
+  }),
 });
   integrations: [mdx(), sitemap(), react()],
   experimental: {
     assets: true
   },
   markdown: {
-    RemarkPlugins: [remarkGfm]
+    remarkPlugins: [remarkGfm]
   }
-    ^
 });
