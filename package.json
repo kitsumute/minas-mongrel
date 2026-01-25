@@ -9,7 +9,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "postbuild": "pagefind --source .vercel/output/static --bundle-dir pagefind",
+    "postbuild": "pagefind --source .vercel/output/static --bundle-dir pagefind && node -e \"const fs = require('fs'); const path = '.vercel/output/functions/render.func/.vc-config.json'; const config = JSON.parse(fs.readFileSync(path)); config.runtime = 'nodejs20.x'; fs.writeFileSync(path, JSON.stringify(config));\"",
     "preview": "astro preview",
     "astro": "astro"
   },
