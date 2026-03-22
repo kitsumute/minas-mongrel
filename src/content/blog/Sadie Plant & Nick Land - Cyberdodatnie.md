@@ -1,6 +1,6 @@
 ---
 title: Sadie Plant & Nick Land - Cyberdodatnie
-isDraft:
+isDraft: false
 description: Katastrofa jest przeszłością w rozsypce. Anastrofa przyszłością w punkcie zbiegu. Kryzys, który z perspektywy historii przypomina postępującą dywergencję, z perspektywy matrycy jest konwergencją, której ludzkość nie potrafi zinterpretować.
 pubDate: 27 December 2019
 coverImage: ../../assets/eyes.png
