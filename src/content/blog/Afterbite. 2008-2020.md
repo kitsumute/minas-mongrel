@@ -1,7 +1,7 @@
 ---
 title: Afterbite. 2008-2020
 isDraft: false
-description: Translation of an afterword to Polish edition of "Fanged Noumena"
+description: Translation of my afterword to Polish edition of "Fanged Noumena"
 pubDate: 25 January 2026
 coverImage: ../../assets/ixkF4Uob.jpg
 coverAlt: description
