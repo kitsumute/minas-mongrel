@@ -100,6 +100,10 @@ Z tego historycznego przykładu należy przede wszystkim wyciągnąć wniosek o 
 
 <br>
 
+![](../../assets/navigator.jpg)
+
+<br>
+
 <sub><sub>Esej Patricii Reed pierwotnie ukazał się w e-flux nr 101 (2019) pt. *Orientation in a Big World: On the Necessity of Horizonless Perspectives*</sub></sub>
 
   <br>
