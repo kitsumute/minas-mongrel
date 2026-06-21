@@ -16,10 +16,6 @@ tags:
   - Space
   - Mereology
 ---
-<sub><sub>Esej Patricii Reed pierwotnie ukazał się w e-flux nr 101 (2019) pt. *Orientation in a Big World: On the Necessity of Horizonless Perspectives*</sub></sub>
-
-<br>
-
 Jedna z najbardziej zajechanych piosenek wszech czasów została skomponowana przez disneyowskich "Imagineersów" dokładnie w momencie, gdy zwiększona łączność komunikacyjna, komercyjne globalne podróże i ponadnarodowe ekonomiczne zależności stawały się (lub miały zaraz się stać) powszechnością. "It's a Small World" zadebiutowało w 1964 roku na targach światowych w Nowym Jorku. Choć łatwo jest cynicznie zbyć jej tekściarskie płycizny, warto się pochylić nad tą nieubłaganie wpadającą w ucho piosenką: jej słowa uchwytują coś z podstępnych, krępujących idealizmów, które nie ustępują do dziś. To banalne wyrażenie zawarte w tytule, powtarzane praktycznie z automatu, zazwyczaj opisuje nieoczekiwaną zbieżność odniesień w sytuacjach skądinąd niepewnych i nieznanych. Rzadko kiedy używa się go w tonie skargi. Nie ma nic złego w przyjemności z takiego napotkania "małego świata", nic samego w sobie, ale rodzi jednak bardziej ogólne pytania o to, dlaczego uczucia uchwycone w tym wyrażeniu wydają się nam pożądane i dlaczego znajdujemy w nich pocieszenie. Co wyrażenie to mówi nam o podejściu do nawigowania we współczesnym świecie?
 
 W tych czterech, prozaicznych słowach kryją się dwa splecione ze sobą problemy. Po pierwsze, wyrażenie "to jest mały świat" wskazuje na przyjemność płynącą z potwierdzania znajomych ram odniesienia, mających oswoić spotkanie z czymś nieznanym lub obcym - z nieznajomym, z percepcją, ideą bądź sytuacją. Jako opowieść kierująca wczesnym przyswojeniem internetu do domowego użytku, rama „małego świata” sprowadza się do hasła reklamującego uproszczony świat, gotowy i przystępny dla ludzkiej wrażliwości w jej obecnym stanie, „obiecującego” zminimalizowanie nieporęcznej globalności do przytulnej, intymnej skali wioski. Po drugie, to pozornie nieszkodliwe sformułowanie maskuje niezasadne założenie, że wzmożona współzależność zacieśnia więzi i prowadzi do poczucia bliskości. Choć dziś istnieje więcej logistycznych, ekologicznych, ekonomicznych i komunikacyjnych wektorów łączących ludzi i nieludzi w głębokich łańcuchach relacji niż kiedykolwiek wcześniej, to z perspektywy strukturalnej stan ten wskazuje raczej na coś przeciwnego do małego świata. Wskazuje raczej na zwiększoną *wymiarowość* współistnienia wytworzoną przez wykładniczo pomnożone wektory relacji. Co istotniejsze, wyidealizowany mit małości, którą można ogarnąć, ogranicza zdolności poznawcze, etyczne i technologiczne potrzebne do bardziej adekwatnego i sprawiedliwego nawigowania przez świat w jego obecnej *n-wymiarowości*. Namnażanie się wzajemnych powiązań i współzależności przyniosło, na dobre lub na złe, *bardzo duży świat*. Jest to świat, który wymaga bardziej adekwatnych ram odniesienia (przestrzennych, percepcyjnych i językowych), aby skonstruować orientację wewnątrz i wobec jego rozległej wielowymiarowości.
@@ -102,6 +98,9 @@ Jeśli chodzi o kwestie przestrzenne i geometryczne, warto podkreślić, że kla
 
 Z tego historycznego przykładu należy przede wszystkim wyciągnąć wniosek o wzajemnym oddziaływaniu między powstającą (w tamtych czasach) koncepcją gatunku ludzkiego a reprezentacyjnym systemem jej uprzestrzenniania, dzięki któremu koncepcja ta stała się przystępna zarówno dla zmysłowości, jak i dla myślenia. Skala planetarna wymusza podobne podejście do obrazowania i uprzestrzeniania nowego gatunku bycia człowiekiem, odpowiadającego tej skali planetarnej, aby lepiej uwzględnić tę *n-wymiarowość*. Bez komfortu, jaki daje względna bliskość horyzontu wyodrębnionego (*discrete*) świata, odwzorowanego z powrotem na nasz własny obraz, wielki świat domaga się perspektyw z pozycji rozproszonej lokalizacji, złożonej z przygodnej osobistej lokalizacji geofizycznej, ale do niej nieredukowalnej. Postawienie hipotezy dotyczącej widzenia, słyszenia, poruszania się, nawiązywania relacji i komunikowania się z wnętrza tego wielkiego świata wymaga eksperymentowania z technikami uzyskiwania dostępu do jego nieznanych, często nieprzejrzystych i zagnieżdżonych skal – aby w ogóle uczynić jego zagregowaną przestrzenność możliwą do nawigacji. Jedną rzeczą jest nadanie nazwy dla „człowieka zdecentrowanego” i jego usytuowania w „skali planetarnej”, ale zupełnie inną jest nauczenie się znaczącego współistnienia w konsekwencjach tych pojęć, wraz z ich materialnymi, epistemicznymi i społecznymi implikacjami. Rozważna nawigacja w skali planetarnej będzie niemożliwa przy użyciu narzędzi, języka, pojęć i figuracji przestrzennych właściwych jedynie dla małego świata tego, co znane i odrębne (*discrete*). Jeśli ma istnieć optymizm nawigacyjny w odniesieniu do tej sytuacji, *optymizm realistyczny*, konieczna będzie mobilizacja istniejących wektorów relacji *n-wymiarowych* do przeciwdziałania mechanizmom wyzysku, które doprowadziły do ich powstania. Mechanizmy te opierają się na najbardziej zgubnej fikcji monohumanistycznego gatunku bycia człowiekiem, mitu atomizowanej tożsamości osobowej, której idea bogactwa odnosi się wyłącznie do najmniejszego możliwego świata. Jeśli istniejące relacje mają zostać skatalizowane przeciwko inflacji wyzysku w mały świecie (mem o 1 procencie oddaje to dobrze), potrzebna jest nie tylko światowa umysłowość, ale także ramy odniesienia wielkiego świata, w których można wysnuwać hipotezy dotyczące możliwości dla niepromieniowego współistnienia w tym *bezhoryzontowym n-wymiarze*.
 
+<br>
+
+<sub><sub>Esej Patricii Reed pierwotnie ukazał się w e-flux nr 101 (2019) pt. *Orientation in a Big World: On the Necessity of Horizonless Perspectives*</sub></sub>
 
   <br>
 
@@ -112,26 +111,26 @@ Z tego historycznego przykładu należy przede wszystkim wyciągnąć wniosek o 
 
 [^3]: Yuk Hui, *Cosmotechnics as Cosmopolitics*, e-flux journal, no. 86 (November 2017).
 
-[^4]: Haraway, D. (2014). Wiedza usytuowana: Problem z nauką w feminizmie a przywilej przyjęcia częściowej, niepełnej perspektywy. (A. Derra, tłum.), W E. Bińczyk; A. Derra (red.), Studia nad nauką i technologią: Wybór tekstów (ss. 103–133). Toruń: Wydawnictwo Naukowe UMK
+[^4]: Donna Haraway, *Wiedza usytuowana: Problem z nauką w feminizmie a przywilej przyjęcia częściowej, niepełnej perspektywy*, tł. A. Derra, w W E. Bińczyk; A. Derra (red.), *Studia nad nauką i technologią: Wybór tekstów*, Toruń: Wydawnictwo Naukowe UMK, s. 103–133.
 
-[^5]: Édouard Glissant, Traité du Tout-Monde (Poétique IV) (Gallimard, 1997), 176.
+[^5]: Édouard Glissant, *Traité du Tout-Monde (Poétique IV)*, Gallimard, 1997, s. 176.
 
-[^6]: See Édouard Glissant interviewed by Laure Adler in 2004 https://www.youtube.com/watch?v=Ttqh1iIk_pc.
+[^6]: Zob. Édouard Glissant rozmowa z Laure Adler w 2004 https://www.youtube.com/watch?v=Ttqh1iIk_pc.
 
-[^7]: Glissant, Traité du Tout-Monde (Poétique IV), 192.
+[^7]: Glissant, *Traité du Tout-Monde (Poétique IV)*, s. 192.
 
-[^8]: J. Michael Dash, “Introduction,” in Caribbean Discourse: Selected Essays by Édouard Glissant (University Press of Virginia, 1989), xii.
+[^8]: J. Michael Dash, *Introduction*, w *Caribbean Discourse: Selected Essays by Édouard Glissant*, University Press of Virginia, 1989, s. xii.
 
-[^9]: Fernando Zalamea, Synthetic Philosophy of Contemporary Mathematics, trans. Zachary Luke Fraser (Sequence Press, 2012), 138.
+[^9]: Fernando Zalamea, *Synthetic Philosophy of Contemporary Mathematics*, tł. Zachary Luke Fraser, Sequence Press, 2012, s. 138.
 
-[^10]: Alexander Grothendieck, Recoltes et Semailles (Université Montpellier, 1986). Part I, translated by Roy Lisker, is available here https://uberty.org/wp-content/uploads/2015/12/RS-grothendeick1.pdf
+[^10]: Alexander Grothendieck, *Recoltes et Semailles*, Université Montpellier, 1986. Część I przetłumaczona przez Roya Liskera, dostępna: https://uberty.org/wp-content/uploads/2015/12/RS-grothendeick1.pdf.
 
-[^11]: Fernando Zalamea, “Grothendieck and Contemporary Transgression,” seven-part seminar at Pratt in collaboration with the New Centre for Research and Practice, New York, October 7–24, 2015. Lecture on gluing operations can be found here https://www.youtube.com/watch?v=P2ACg83zI2Y.
+[^11]: Fernando Zalamea, *Grothendieck and Contemporary Transgression*, siedmioczęściowe seminarium na Pratt we współpracy z the New Centre for Research and Practice, New York, October 7–24, 2015. Dostęp: https://www.youtube.com/watch?v=P2ACg83zI2Y.
 
-[^12]: Katherine McKittrick, “Unparalled Catastrophe for our Species” (interview with Sylvia Wynter), in Sylvia Wynter: Being Human as Praxis, ed. K. McKittrick (Duke University Press, 2015), 10.
+[^12]: Katherine McKittrick, *Unparalled Catastrophe for our Species*, wywiad z Sylvią Wynter, w *Sylvia Wynter: Being Human as Praxis*, red. K. McKittrick, Duke University Press, 2015, s. 10.
 
-[^13]: Sylvia Wynter, “A Ceremony Must Be Found: After Humanism,” boundary 2, vol. 12, no. 3 / vol. 13, no. 1 (Spring–Autumn 1984), 19–70.
+[^13]: Sylvia Wynter, *A Ceremony Must Be Found: After Humanism*, boundary 2, vol. 12, no. 3 / vol. 13, no. 1 (Spring–Autumn 1984), s. 19–70.
 
-[^14]:David Scott, preamble to Sylvia Wynter, “The Re-Enchantment of Humanism: An Interview with Sylvia Wynter,” Small Axe, no. 8 (2000): 119–207 https://libcom.org/library/re-enchantment-humanism-interview-sylvia-wynter.
+[^14]:David Scott, przedmowa do Sylvia Wynter, *The Re-Enchantment of Humanism: An Interview with Sylvia Wynter*, Small Axe, no. 8 (2000), s. 119–207, dostęp: https://libcom.org/library/re-enchantment-humanism-interview-sylvia-wynter.
 
-[^15]: Donna Haraway citing the concept of “resourcing” from Zoë Sofoulis, in “Situated Knowledges.”
+[^15]: Donna Haraway cytująca pojęcie “resourcing” z Zoë Sofoulis, w *Wiedzach usytuowanych*.
