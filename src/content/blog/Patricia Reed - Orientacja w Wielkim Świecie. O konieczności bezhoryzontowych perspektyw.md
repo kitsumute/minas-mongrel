@@ -87,7 +87,7 @@ Jest wielu orędowników aktywnego wzmacniania turbulencji nawigacyjnych wywoła
 
 <br>
 
-![](../../assets/navigator.jpg)
+![](../../assets/navigator2.jpg)
 
 <br>
 
