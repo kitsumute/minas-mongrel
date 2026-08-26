@@ -68,10 +68,9 @@ W skrócie, Dziaderski-McGroot postrzega Młodzą-Dziewczynę jako element zinst
 
 Kiedy Dziadobrody-Oskarżyciel-Marks bez przerwy drąży, wysuwając jeden zarzut za drugim „Młoda Dziewczyna zrobiła tamto i siamto”, Dziewczęcy-Marks potajemnie snuje marzenia o usłanym różami poranku, jaki nastąpi po „krytycznej sytuacji przejściowej”. Wygląda na to, że końca nie będzie. Ani sekundy, nie szczędzi nawet pojedynczego zdania na zastanowienie się co Dziewczę *może* zdziałać, co mogłoby oznaczać (*Trzymajcie się mocno i oplujcie mnie*) czerpanie przyjemności (*enjoy*) – nieważne, czy chodzi o znoszenie czegoś [*endure*] czy zachwycanie się [*enjouir*]  [^5] – z zajmowania i afirmowania pozycji podmiotowej, którą Dziad pogardliwie potępia i zasypuje tysiącem protekcjonalnych obelg mających na celu zawstydzenie, wzbudzenie samonienawiści czy obarczenie odpowiedzialnością i poczuciem winy. Nikła ciekawość dlaczego ktoś mógłby woleć „stać się towarem, zamiast biernie znosić jego tyranię” (75) i co z takiego wyboru mogłoby wyniknąć. Brak zainteresowania tymi, którzy „zawłaszczają to, co ma być skonsumowane i posuwają się dalej (...) znosząc coś skrojonego pod konsumpcję i afirmując to zniekształcenie jako bunt przeciwko obowiązującym formom”[^6]. Żadnej dociekliwości wobec tego dlaczego „stanie się kreskówkową dziewczynką bezkrytycznie orędującą za kapitałem w akcie uczestnictwa, sprzymierzenie się ze schizokapitalizmem poprzez stawanie-się-animcem [...] pozwoliło mi jak chyba nic dotąd faktycznie odczuć prądy libidinalne”[^7]. Bo jest martwa dla niego i właśnie taką ją lubi najbardziej.
 
-  
+  <br>
 
 ---
-
 [^1]: Strony podane w tekście odsyłają do Tiqqun, *Preliminary Materials for a Theory of the Young-Girl*, przeł. z franc. A. Reines. Los Angeles 2001.
 
 [^2]: *1999 introduction* [w:] Tiqqun, *Raw Materials for a Theory of the Young-Girl*, https://libcom.org/files/jeune-fille.pdf.
