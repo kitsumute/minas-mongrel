@@ -70,7 +70,6 @@ Kiedy Dziadobrody-Oskarżyciel-Marks bez przerwy drąży, wysuwając jeden zarzu
 
   <br>
 
----
 [^1]: Strony podane w tekście odsyłają do Tiqqun, *Preliminary Materials for a Theory of the Young-Girl*, przeł. z franc. A. Reines. Los Angeles 2001.
 
 [^2]: *1999 introduction* [w:] Tiqqun, *Raw Materials for a Theory of the Young-Girl*, https://libcom.org/files/jeune-fille.pdf.
