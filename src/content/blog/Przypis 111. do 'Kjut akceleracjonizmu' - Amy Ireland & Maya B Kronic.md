@@ -69,7 +69,7 @@ Kiedy Dziadobrody-Oskarżyciel-Marks bez przerwy drąży, wysuwając jeden zarzu
 
   <br>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>tłumaczenie Patryk Ciesielczyk
+tłumaczenie Patryk Ciesielczyk
 
   <br>
 
